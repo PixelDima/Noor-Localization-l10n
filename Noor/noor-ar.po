@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Noor\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
-"POT-Creation-Date: 2018-04-01 23:03+0100\n"
-"PO-Revision-Date: 2018-04-01 23:20+0100\n"
+"POT-Creation-Date: 2018-05-10 15:27+0100\n"
+"PO-Revision-Date: 2018-05-10 15:27+0100\n"
 "Last-Translator: pixeldima\n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 2.0.7\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
@@ -104,7 +104,7 @@ msgstr ""
 "سنستخدم البريد الالكتروني الخاص بك لإرسال كلمة السر والتحقق من حسابك."
 
 #: bbpress/form-user-register.php:29
-#: framework/functions/admin/customizer/register.php:1067
+#: framework/functions/admin/customizer/register.php:1083
 #: woocommerce/share.php:57
 msgid "Email"
 msgstr "البريد الالكتروني"
@@ -204,7 +204,7 @@ msgstr "تعليقك بإنتظار المراجعة."
 
 #: framework/functions/__noor-data.php:240
 #: framework/functions/admin/meta/object_types/edd_download_details.php:180
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:685
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:710
 msgid "All"
 msgstr "الكل"
 
@@ -329,19 +329,19 @@ msgstr "عرض المنتجات"
 #: framework/functions/admin/meta/meta-boxes.php:734
 #: framework/functions/admin/meta/meta-boxes.php:754
 #: framework/functions/admin/meta/meta-boxes.php:775
-#: framework/functions/admin/meta/meta-boxes.php:837
-#: framework/functions/admin/meta/meta-boxes.php:964
-#: framework/functions/admin/meta/meta-boxes.php:1135
-#: framework/functions/admin/meta/meta-boxes.php:1309
-#: framework/functions/admin/meta/meta-boxes.php:1326
-#: framework/functions/admin/meta/meta-boxes.php:1360
-#: framework/functions/admin/meta/meta-boxes.php:1377
-#: framework/functions/admin/meta/meta-boxes.php:1431
-#: framework/functions/admin/meta/meta-boxes.php:1557
-#: framework/functions/admin/meta/meta-boxes.php:1706
-#: framework/functions/admin/meta/meta-boxes.php:1718
-#: framework/functions/admin/meta/meta-boxes.php:1730
-#: framework/functions/admin/meta/meta-boxes.php:1742
+#: framework/functions/admin/meta/meta-boxes.php:851
+#: framework/functions/admin/meta/meta-boxes.php:978
+#: framework/functions/admin/meta/meta-boxes.php:1149
+#: framework/functions/admin/meta/meta-boxes.php:1323
+#: framework/functions/admin/meta/meta-boxes.php:1340
+#: framework/functions/admin/meta/meta-boxes.php:1374
+#: framework/functions/admin/meta/meta-boxes.php:1391
+#: framework/functions/admin/meta/meta-boxes.php:1445
+#: framework/functions/admin/meta/meta-boxes.php:1571
+#: framework/functions/admin/meta/meta-boxes.php:1720
+#: framework/functions/admin/meta/meta-boxes.php:1732
+#: framework/functions/admin/meta/meta-boxes.php:1744
+#: framework/functions/admin/meta/meta-boxes.php:1756
 #: framework/functions/admin/meta/object_types/object_edd.php:47
 #: framework/functions/admin/meta/object_types/object_portfolio.php:199
 #: framework/functions/admin/meta/object_types/object_portfolio.php:341
@@ -372,19 +372,19 @@ msgstr "تفعيل"
 #: framework/functions/admin/meta/meta-boxes.php:735
 #: framework/functions/admin/meta/meta-boxes.php:755
 #: framework/functions/admin/meta/meta-boxes.php:776
-#: framework/functions/admin/meta/meta-boxes.php:838
-#: framework/functions/admin/meta/meta-boxes.php:965
-#: framework/functions/admin/meta/meta-boxes.php:1136
-#: framework/functions/admin/meta/meta-boxes.php:1310
-#: framework/functions/admin/meta/meta-boxes.php:1327
-#: framework/functions/admin/meta/meta-boxes.php:1361
-#: framework/functions/admin/meta/meta-boxes.php:1378
-#: framework/functions/admin/meta/meta-boxes.php:1432
-#: framework/functions/admin/meta/meta-boxes.php:1558
-#: framework/functions/admin/meta/meta-boxes.php:1707
-#: framework/functions/admin/meta/meta-boxes.php:1719
-#: framework/functions/admin/meta/meta-boxes.php:1731
-#: framework/functions/admin/meta/meta-boxes.php:1743
+#: framework/functions/admin/meta/meta-boxes.php:852
+#: framework/functions/admin/meta/meta-boxes.php:979
+#: framework/functions/admin/meta/meta-boxes.php:1150
+#: framework/functions/admin/meta/meta-boxes.php:1324
+#: framework/functions/admin/meta/meta-boxes.php:1341
+#: framework/functions/admin/meta/meta-boxes.php:1375
+#: framework/functions/admin/meta/meta-boxes.php:1392
+#: framework/functions/admin/meta/meta-boxes.php:1446
+#: framework/functions/admin/meta/meta-boxes.php:1572
+#: framework/functions/admin/meta/meta-boxes.php:1721
+#: framework/functions/admin/meta/meta-boxes.php:1733
+#: framework/functions/admin/meta/meta-boxes.php:1745
+#: framework/functions/admin/meta/meta-boxes.php:1757
 #: framework/functions/admin/meta/object_types/object_edd.php:48
 #: framework/functions/admin/meta/object_types/object_portfolio.php:200
 #: framework/functions/admin/meta/object_types/object_portfolio.php:342
@@ -401,12 +401,12 @@ msgid "Off"
 msgstr "إيقاف"
 
 #: framework/functions/admin/customizer/choices.php:62
-#: framework/functions/admin/meta/meta-boxes.php:1050
+#: framework/functions/admin/meta/meta-boxes.php:1064
 msgid "10 px"
 msgstr "10 بكسل"
 
 #: framework/functions/admin/customizer/choices.php:63
-#: framework/functions/admin/meta/meta-boxes.php:1051
+#: framework/functions/admin/meta/meta-boxes.php:1065
 msgid "20 px"
 msgstr "20 بكسل"
 
@@ -453,13 +453,13 @@ msgid "End"
 msgstr "النهائة"
 
 #: framework/functions/admin/customizer/choices.php:92
-#: framework/functions/admin/customizer/register.php:1154
-#: framework/functions/admin/meta/meta-boxes.php:1032
+#: framework/functions/admin/customizer/register.php:1180
+#: framework/functions/admin/meta/meta-boxes.php:1046
 msgid "Framed"
 msgstr "مؤطر"
 
 #: framework/functions/admin/customizer/choices.php:93
-#: framework/functions/admin/meta/meta-boxes.php:1785
+#: framework/functions/admin/meta/meta-boxes.php:1799
 msgid "Fullwidth"
 msgstr "كامل العرض"
 
@@ -492,8 +492,8 @@ msgstr "نمط بسيط بدون بدون هامش"
 #: framework/functions/admin/customizer/choices.php:120
 #: framework/functions/admin/customizer/choices.php:264
 #: framework/functions/admin/customizer/include/fonts.php:7226
-#: framework/functions/admin/customizer/register.php:1254
-#: framework/functions/admin/customizer/register.php:1274
+#: framework/functions/admin/customizer/register.php:1280
+#: framework/functions/admin/customizer/register.php:1300
 #: framework/functions/admin/meta/meta-boxes.php:30
 #: framework/functions/admin/meta/meta-boxes.php:84
 #: framework/functions/admin/meta/meta-boxes.php:137
@@ -515,28 +515,28 @@ msgstr "نمط بسيط بدون بدون هامش"
 #: framework/functions/admin/meta/meta-boxes.php:733
 #: framework/functions/admin/meta/meta-boxes.php:753
 #: framework/functions/admin/meta/meta-boxes.php:774
-#: framework/functions/admin/meta/meta-boxes.php:836
-#: framework/functions/admin/meta/meta-boxes.php:852
-#: framework/functions/admin/meta/meta-boxes.php:909
-#: framework/functions/admin/meta/meta-boxes.php:963
-#: framework/functions/admin/meta/meta-boxes.php:1022
-#: framework/functions/admin/meta/meta-boxes.php:1049
-#: framework/functions/admin/meta/meta-boxes.php:1134
-#: framework/functions/admin/meta/meta-boxes.php:1183
-#: framework/functions/admin/meta/meta-boxes.php:1201
-#: framework/functions/admin/meta/meta-boxes.php:1308
-#: framework/functions/admin/meta/meta-boxes.php:1325
-#: framework/functions/admin/meta/meta-boxes.php:1342
-#: framework/functions/admin/meta/meta-boxes.php:1359
-#: framework/functions/admin/meta/meta-boxes.php:1376
-#: framework/functions/admin/meta/meta-boxes.php:1430
-#: framework/functions/admin/meta/meta-boxes.php:1498
-#: framework/functions/admin/meta/meta-boxes.php:1556
-#: framework/functions/admin/meta/meta-boxes.php:1574
-#: framework/functions/admin/meta/meta-boxes.php:1705
-#: framework/functions/admin/meta/meta-boxes.php:1717
-#: framework/functions/admin/meta/meta-boxes.php:1729
-#: framework/functions/admin/meta/meta-boxes.php:1741
+#: framework/functions/admin/meta/meta-boxes.php:850
+#: framework/functions/admin/meta/meta-boxes.php:866
+#: framework/functions/admin/meta/meta-boxes.php:923
+#: framework/functions/admin/meta/meta-boxes.php:977
+#: framework/functions/admin/meta/meta-boxes.php:1036
+#: framework/functions/admin/meta/meta-boxes.php:1063
+#: framework/functions/admin/meta/meta-boxes.php:1148
+#: framework/functions/admin/meta/meta-boxes.php:1197
+#: framework/functions/admin/meta/meta-boxes.php:1215
+#: framework/functions/admin/meta/meta-boxes.php:1322
+#: framework/functions/admin/meta/meta-boxes.php:1339
+#: framework/functions/admin/meta/meta-boxes.php:1356
+#: framework/functions/admin/meta/meta-boxes.php:1373
+#: framework/functions/admin/meta/meta-boxes.php:1390
+#: framework/functions/admin/meta/meta-boxes.php:1444
+#: framework/functions/admin/meta/meta-boxes.php:1512
+#: framework/functions/admin/meta/meta-boxes.php:1570
+#: framework/functions/admin/meta/meta-boxes.php:1588
+#: framework/functions/admin/meta/meta-boxes.php:1719
+#: framework/functions/admin/meta/meta-boxes.php:1731
+#: framework/functions/admin/meta/meta-boxes.php:1743
+#: framework/functions/admin/meta/meta-boxes.php:1755
 #: framework/functions/admin/meta/object_types/object_edd.php:46
 #: framework/functions/admin/meta/object_types/object_portfolio.php:198
 #: framework/functions/admin/meta/object_types/object_portfolio.php:214
@@ -553,28 +553,28 @@ msgid "Inherit"
 msgstr "يتوارث"
 
 #: framework/functions/admin/customizer/choices.php:107
-#: framework/functions/admin/meta/meta-boxes.php:914
+#: framework/functions/admin/meta/meta-boxes.php:928
 msgid "Mini"
 msgstr "مصغر"
 
 #: framework/functions/admin/customizer/choices.php:108
 #: framework/functions/admin/customizer/choices.php:115
 #: framework/functions/admin/customizer/choices.php:121
-#: framework/functions/admin/meta/meta-boxes.php:929
+#: framework/functions/admin/meta/meta-boxes.php:943
 msgid "Right Sidebar"
 msgstr "عمود جانبي أيمن"
 
 #: framework/functions/admin/customizer/choices.php:109
 #: framework/functions/admin/customizer/choices.php:116
 #: framework/functions/admin/customizer/choices.php:122
-#: framework/functions/admin/meta/meta-boxes.php:924
+#: framework/functions/admin/meta/meta-boxes.php:938
 msgid "Left Sidebar"
 msgstr "عمود جانبي أيسر"
 
 #: framework/functions/admin/customizer/choices.php:110
 #: framework/functions/admin/customizer/choices.php:114
 #: framework/functions/admin/customizer/choices.php:123
-#: framework/functions/admin/meta/meta-boxes.php:919
+#: framework/functions/admin/meta/meta-boxes.php:933
 msgid "No Sidebar"
 msgstr "بدون عمود جانبي"
 
@@ -741,7 +741,7 @@ msgstr "مسطر"
 #: framework/functions/admin/customizer/choices.php:236
 #: framework/functions/admin/meta/inc/cmb2/includes/CMB2_Field.php:1260
 #: framework/functions/admin/meta/inc/cmb2/includes/CMB2_Field.php:1264
-#: framework/functions/admin/meta/meta-boxes.php:853
+#: framework/functions/admin/meta/meta-boxes.php:867
 msgid "None"
 msgstr "بلا"
 
@@ -803,8 +803,8 @@ msgid "Templates"
 msgstr "القوالب"
 
 #: framework/functions/admin/customizer/choices.php:284
-#: framework/functions/admin/customizer/register.php:433
-#: framework/functions/admin/meta/meta-boxes.php:1012
+#: framework/functions/admin/customizer/register.php:448
+#: framework/functions/admin/meta/meta-boxes.php:1026
 msgid "Site Layout"
 msgstr "واجهة الموقع و التنسيق"
 
@@ -826,26 +826,26 @@ msgid "Header"
 msgstr "إعدادات الهيدر"
 
 #: framework/functions/admin/customizer/choices.php:287
-#: framework/functions/admin/customizer/register.php:289
+#: framework/functions/admin/customizer/register.php:295
 msgid "Blog"
 msgstr "المدونه (المواضيع)"
 
 #: framework/functions/admin/customizer/choices.php:288
-#: framework/functions/admin/customizer/register.php:235
-#: framework/functions/admin/meta/meta-boxes.php:938
+#: framework/functions/admin/customizer/register.php:241
+#: framework/functions/admin/meta/meta-boxes.php:952
 msgid "Sidebar"
 msgstr "العمود الجانبي (Sidebar)"
 
 #: framework/functions/admin/customizer/choices.php:297
-#: framework/functions/admin/customizer/register.php:314
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:725
+#: framework/functions/admin/customizer/register.php:320
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:750
 msgid "Widgets"
 msgstr "ودجات"
 
-#: framework/functions/admin/customizer/customizer-data.php:323
-#: framework/functions/admin/customizer/register.php:330
-#: framework/functions/admin/customizer/register.php:331
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:700
+#: framework/functions/admin/customizer/customizer-data.php:326
+#: framework/functions/admin/customizer/register.php:345
+#: framework/functions/admin/customizer/register.php:346
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:725
 msgid "Portfolio"
 msgstr "معرض أعمال"
 
@@ -907,14 +907,14 @@ msgid "Other Settings"
 msgstr "إعدادات اخرى"
 
 #: framework/functions/admin/customizer/register.php:162
-#: framework/functions/admin/customizer/register.php:416
-#: framework/functions/admin/customizer/register.php:3400
-#: framework/functions/admin/meta/meta-boxes.php:1125
+#: framework/functions/admin/customizer/register.php:431
+#: framework/functions/admin/customizer/register.php:3445
+#: framework/functions/admin/meta/meta-boxes.php:1139
 msgid "Loading Screen"
 msgstr "شاشة التحميل"
 
 #: framework/functions/admin/customizer/register.php:183
-#: framework/functions/admin/customizer/register.php:453
+#: framework/functions/admin/customizer/register.php:468
 msgid "Header Style"
 msgstr "نمط الرأسية"
 
@@ -924,7 +924,7 @@ msgid "Menu-burger & Search"
 msgstr "قائمة برغر و البحث"
 
 #: framework/functions/admin/customizer/register.php:195
-#: framework/functions/admin/customizer/register.php:278
+#: framework/functions/admin/customizer/register.php:284
 #: framework/functions/admin/meta/object_types/object_pages.php:74
 #: framework/functions/admin/meta/object_types/object_portfolio.php:438
 #: framework/functions/admin/meta/object_types/object_post.php:526
@@ -949,241 +949,253 @@ msgstr "القائمة"
 msgid "Page Title"
 msgstr "عنوان الصفحة"
 
-#: framework/functions/admin/customizer/register.php:223
+#: framework/functions/admin/customizer/register.php:222
+msgid "General Typography"
+msgstr "الطباعة العامة"
+
+#: framework/functions/admin/customizer/register.php:229
 msgid "Body"
 msgstr "الهيئة"
 
-#: framework/functions/admin/customizer/register.php:229
+#: framework/functions/admin/customizer/register.php:235
 msgid "Navbar"
 msgstr "شريط التنقل"
 
-#: framework/functions/admin/customizer/register.php:242
+#: framework/functions/admin/customizer/register.php:248
 msgid "Heading H1"
 msgstr "العنوان H1"
 
-#: framework/functions/admin/customizer/register.php:248
+#: framework/functions/admin/customizer/register.php:254
 msgid "Heading H2"
 msgstr "العنوان H2"
 
-#: framework/functions/admin/customizer/register.php:254
+#: framework/functions/admin/customizer/register.php:260
 msgid "Heading H3"
 msgstr "العنوان H3"
 
-#: framework/functions/admin/customizer/register.php:260
+#: framework/functions/admin/customizer/register.php:266
 msgid "Heading H4"
 msgstr "العنوان H4"
 
-#: framework/functions/admin/customizer/register.php:266
+#: framework/functions/admin/customizer/register.php:272
 msgid "Heading H5"
 msgstr "العنوان H5"
 
-#: framework/functions/admin/customizer/register.php:272
+#: framework/functions/admin/customizer/register.php:278
 msgid "Heading H6"
 msgstr "العنوان H6"
 
-#: framework/functions/admin/customizer/register.php:284
+#: framework/functions/admin/customizer/register.php:290
 msgid "button"
 msgstr "زر"
 
-#: framework/functions/admin/customizer/register.php:291
+#: framework/functions/admin/customizer/register.php:297
 msgid "bbPress"
 msgstr "بي بي بريس | bbPress"
 
-#: framework/functions/admin/customizer/register.php:292
+#: framework/functions/admin/customizer/register.php:298
 msgid "BuddyPress"
 msgstr "بدي بريس | BuddyPress"
 
-#: framework/functions/admin/customizer/register.php:296
-#: framework/functions/admin/meta/meta-boxes.php:1293
+#: framework/functions/admin/customizer/register.php:302
+#: framework/functions/admin/meta/meta-boxes.php:1307
 msgid "General Settings"
 msgstr "إعدادات عامة"
 
-#: framework/functions/admin/customizer/register.php:302
+#: framework/functions/admin/customizer/register.php:308
 msgid "Copyright Settings"
 msgstr "اعدادات حقوق النشر"
 
-#: framework/functions/admin/customizer/register.php:308
-#: framework/functions/admin/meta/meta-boxes.php:1415
+#: framework/functions/admin/customizer/register.php:314
+#: framework/functions/admin/meta/meta-boxes.php:1429
 msgid "Featured Area"
 msgstr "منطقة الفوتر"
 
-#: framework/functions/admin/customizer/register.php:321
+#: framework/functions/admin/customizer/register.php:327
 msgid "Noor WooCommerce"
 msgstr "نور - ووكومرس"
 
-#: framework/functions/admin/customizer/register.php:337
+#: framework/functions/admin/customizer/register.php:336
+msgid "Easy Digital Download"
+msgstr "Easy Digital Download"
+
+#: framework/functions/admin/customizer/register.php:352
 msgid "Base portfolio options"
 msgstr "خيارات معرض الأعمال"
 
-#: framework/functions/admin/customizer/register.php:344
+#: framework/functions/admin/customizer/register.php:359
 msgid "Single portfolio item options"
 msgstr "خيارات المشروع"
 
-#: framework/functions/admin/customizer/register.php:351
+#: framework/functions/admin/customizer/register.php:366
 msgid "Portfolio page options"
 msgstr "خيارات صفحة معرض الأعمال"
 
-#: framework/functions/admin/customizer/register.php:358
+#: framework/functions/admin/customizer/register.php:373
 msgid "Portfolio hover options"
 msgstr "خيارات التحويم في معرض الأعمال"
 
-#: framework/functions/admin/customizer/register.php:365
+#: framework/functions/admin/customizer/register.php:380
 msgid "Portfolio archive page options"
 msgstr "خيارات صفحة أرشيف معرض الأعمال"
 
-#: framework/functions/admin/customizer/register.php:372
+#: framework/functions/admin/customizer/register.php:387
 #: framework/views/dima_global/related-portfolio.php:25
 msgid "Related Projects"
 msgstr "مشاريع ذات صلة"
 
-#: framework/functions/admin/customizer/register.php:379
+#: framework/functions/admin/customizer/register.php:394
 msgid "Code Fields"
 msgstr "حقول الكود"
 
-#: framework/functions/admin/customizer/register.php:380
-msgid "AMP"
-msgstr "AMP"
+#: framework/functions/admin/customizer/register.php:395
+msgid "Noor AMP"
+msgstr "نُور AMP"
 
-#: framework/functions/admin/customizer/register.php:384
-#: framework/functions/admin/customizer/register.php:385
+#: framework/functions/admin/customizer/register.php:399
+#: framework/functions/admin/customizer/register.php:400
 msgid "Advanced Settings"
 msgstr "اعدادات متقدمة"
 
-#: framework/functions/admin/customizer/register.php:391
+#: framework/functions/admin/customizer/register.php:406
 msgid "Performance Options"
 msgstr "خيارات الاداء"
 
-#: framework/functions/admin/customizer/register.php:397
+#: framework/functions/admin/customizer/register.php:412
 #: framework/functions/widgets/widget-social.php:117
 msgid "Social"
 msgstr "الشبكات الإجتماعية"
 
-#: framework/functions/admin/customizer/register.php:404
+#: framework/functions/admin/customizer/register.php:419
 msgid "Social Graph & SEO"
 msgstr "الرسم البياني الاجتماعي و SEO"
 
-#: framework/functions/admin/customizer/register.php:410
+#: framework/functions/admin/customizer/register.php:425
 #: framework/functions/widgets/widget-ads.php:33
 #: framework/functions/widgets/widget-ads.php:105
 #: framework/functions/widgets/widget-ads.php:261
 msgid "Advertisement"
 msgstr "الاعلانات"
 
-#: framework/functions/admin/customizer/register.php:422
+#: framework/functions/admin/customizer/register.php:437
 msgid "Custom"
 msgstr "مخصص"
 
-#: framework/functions/admin/customizer/register.php:443
-#: framework/functions/admin/customizer/register.php:2094
-#: framework/functions/admin/customizer/register.php:3825
-#: framework/functions/admin/customizer/register.php:3991
-#: framework/functions/admin/customizer/register.php:4004
-#: framework/functions/admin/meta/meta-boxes.php:899
+#: framework/functions/admin/customizer/register.php:458
+#: framework/functions/admin/customizer/register.php:2120
+#: framework/functions/admin/customizer/register.php:3870
+#: framework/functions/admin/customizer/register.php:4036
+#: framework/functions/admin/customizer/register.php:4049
+#: framework/functions/admin/meta/meta-boxes.php:913
 msgid "Content Layout"
 msgstr "تخطيط المحتوى"
 
-#: framework/functions/admin/customizer/register.php:463
+#: framework/functions/admin/customizer/register.php:478
 #: framework/functions/admin/meta/meta-boxes.php:133
 msgid "Navbar Aligning"
 msgstr "محاذاة شريط التنقل"
 
-#: framework/functions/admin/customizer/register.php:473
+#: framework/functions/admin/customizer/register.php:488
 #: framework/functions/admin/meta/meta-boxes.php:172
 msgid "Navbar Animation"
 msgstr "حركة شريط التنقل"
 
-#: framework/functions/admin/customizer/register.php:483
+#: framework/functions/admin/customizer/register.php:498
+msgid "Sticky Navbar On Mobile"
+msgstr ""
+
+#: framework/functions/admin/customizer/register.php:509
 #: framework/functions/admin/meta/meta-boxes.php:185
 msgid "Offset By Pixels"
 msgstr "إزاحة بمقدار من البكسل (100px)"
 
-#: framework/functions/admin/customizer/register.php:492
+#: framework/functions/admin/customizer/register.php:518
 #: framework/functions/admin/meta/meta-boxes.php:195
 msgid "Offset By Element Target"
 msgstr "إزاحة بمقدار العنصر المحدد"
 
-#: framework/functions/admin/customizer/register.php:501
+#: framework/functions/admin/customizer/register.php:527
 #: framework/functions/admin/meta/meta-boxes.php:359
 msgid "Navbar Burger"
 msgstr "شريط التنقل برغر"
 
-#: framework/functions/admin/customizer/register.php:511
+#: framework/functions/admin/customizer/register.php:537
 #: framework/functions/admin/meta/meta-boxes.php:386
 msgid "Display Desktop-Burger In Mobile"
 msgstr "عرض قائمة البرغر المطبقة على الأجهزة الكبيرة في الجوال"
 
-#: framework/functions/admin/customizer/register.php:521
+#: framework/functions/admin/customizer/register.php:547
 #: framework/functions/admin/meta/meta-boxes.php:370
 msgid "Burger Style"
 msgstr "نمط برغر"
 
-#: framework/functions/admin/customizer/register.php:531
+#: framework/functions/admin/customizer/register.php:557
 msgid "Navbar Transparent"
 msgstr "شريط تنقل شفاف"
 
-#: framework/functions/admin/customizer/register.php:541
+#: framework/functions/admin/customizer/register.php:567
 #: framework/functions/admin/meta/meta-boxes.php:407
 msgid "Burger Position"
 msgstr "موضع برغر"
 
-#: framework/functions/admin/customizer/register.php:551
+#: framework/functions/admin/customizer/register.php:577
 msgid "Burger background Image"
 msgstr "صورة خلفية برغر"
 
-#: framework/functions/admin/customizer/register.php:560
+#: framework/functions/admin/customizer/register.php:586
 #: framework/functions/admin/meta/meta-boxes.php:688
 msgid "Page Title Display"
 msgstr "عرض عنوان الصفحة"
 
-#: framework/functions/admin/customizer/register.php:570
+#: framework/functions/admin/customizer/register.php:596
 msgid "Page Title Style"
 msgstr "تنسيق عنوان الصفحة"
 
-#: framework/functions/admin/customizer/register.php:580
+#: framework/functions/admin/customizer/register.php:606
 #: framework/functions/admin/meta/meta-boxes.php:724
 msgid "Page Title Dark"
 msgstr "عنوان الصفحة داكن"
 
-#: framework/functions/admin/customizer/register.php:590
+#: framework/functions/admin/customizer/register.php:616
 #: framework/functions/admin/meta/meta-boxes.php:744
 msgid "Breadcrumbs Display"
 msgstr "عرض مسار التتبع"
 
-#: framework/functions/admin/customizer/register.php:600
+#: framework/functions/admin/customizer/register.php:626
 msgid "Page Title Background Image"
 msgstr "صورة خلفية عنوان الصفحة"
 
-#: framework/functions/admin/customizer/register.php:609
+#: framework/functions/admin/customizer/register.php:635
 msgid "Page Title Background Color"
 msgstr "لون خلفية عنوان الصفحة"
 
-#: framework/functions/admin/customizer/register.php:618
-#: framework/functions/admin/meta/meta-boxes.php:827
+#: framework/functions/admin/customizer/register.php:644
+#: framework/functions/admin/meta/meta-boxes.php:841
 msgid "Page Title Color As Cover"
 msgstr "إستخدام لون عنوان الصفحة كغلاف"
 
-#: framework/functions/admin/customizer/register.php:628
+#: framework/functions/admin/customizer/register.php:654
 msgid "Header Border Color"
 msgstr "لون حدود الهيدر"
 
-#: framework/functions/admin/customizer/register.php:637
+#: framework/functions/admin/customizer/register.php:663
 msgid "Side Menu Background Image"
 msgstr "صورة خلفية للقائمة الجانبية"
 
-#: framework/functions/admin/customizer/register.php:639
+#: framework/functions/admin/customizer/register.php:665
 msgid "Work with Fixed Right & Fixed Left menu"
 msgstr "تعمل مع شريط التنقل المثبت لليسار واليمين فقط"
 
-#: framework/functions/admin/customizer/register.php:646
+#: framework/functions/admin/customizer/register.php:672
 #: framework/functions/admin/meta/meta-boxes.php:765
 msgid "Copyright Display"
 msgstr "عرض حقوق التأليف والنشر"
 
-#: framework/functions/admin/customizer/register.php:649
+#: framework/functions/admin/customizer/register.php:675
 msgid "This option for vertical menu."
 msgstr "هذا الخيار للقائمة العمودية."
 
-#: framework/functions/admin/customizer/register.php:656
+#: framework/functions/admin/customizer/register.php:682
 #: framework/functions/admin/meta/meta-boxes.php:434
 #: framework/functions/extensions/woocommerce.php:728
 #: framework/views/noor_main/search-burger.php:37 searchform.php:3
@@ -1191,200 +1203,187 @@ msgstr "هذا الخيار للقائمة العمودية."
 msgid "Search"
 msgstr "بحث"
 
-#: framework/functions/admin/customizer/register.php:666
+#: framework/functions/admin/customizer/register.php:692
 #: framework/functions/admin/meta/meta-boxes.php:446
 msgid "Search/burger background Color"
 msgstr "لون خلفية البحث / برجر"
 
-#: framework/functions/admin/customizer/register.php:675
+#: framework/functions/admin/customizer/register.php:701
 #: framework/functions/admin/meta/meta-boxes.php:457
 msgid "Search background Image"
 msgstr "صورة الخلفية للبحث"
 
-#: framework/functions/admin/customizer/register.php:684
-#: framework/functions/admin/customizer/register.php:748
+#: framework/functions/admin/customizer/register.php:710
+#: framework/functions/admin/customizer/register.php:774
 #: framework/functions/admin/meta/meta-boxes.php:481
 #: framework/functions/admin/meta/meta-boxes.php:581
 msgid "Logo Width (px)"
 msgstr "عَرض الشعار (px)"
 
-#: framework/functions/admin/customizer/register.php:693
-#: framework/functions/admin/customizer/register.php:757
+#: framework/functions/admin/customizer/register.php:719
+#: framework/functions/admin/customizer/register.php:783
 #: framework/functions/admin/meta/meta-boxes.php:492
 #: framework/functions/admin/meta/meta-boxes.php:592
 msgid "Upload Your Logo"
 msgstr "ارفع شعارك"
 
-#: framework/functions/admin/customizer/register.php:702
+#: framework/functions/admin/customizer/register.php:728
 msgid "Upload your logo for sticky & transparent menu"
 msgstr "قم برفع شعارك للقائمة الثابتة والشفافة"
 
-#: framework/functions/admin/customizer/register.php:711
-#: framework/functions/admin/customizer/register.php:784
+#: framework/functions/admin/customizer/register.php:737
+#: framework/functions/admin/customizer/register.php:810
 #: framework/functions/admin/meta/meta-boxes.php:534
 #: framework/functions/admin/meta/meta-boxes.php:634
 msgid "Upload Your Logo (Retina Version @2x)"
 msgstr "رفع  الشعار (Retina Version @2x)"
 
-#: framework/functions/admin/customizer/register.php:720
+#: framework/functions/admin/customizer/register.php:746
 msgid "Upload your logo for sticky & transparent menu (Retina Version @2x)"
 msgstr "قم برفع شعارك للقائمة الثابتة والشفافة (Retina Version @ 2x)"
 
-#: framework/functions/admin/customizer/register.php:729
-#: framework/functions/admin/customizer/register.php:775
+#: framework/functions/admin/customizer/register.php:755
+#: framework/functions/admin/customizer/register.php:801
 #: framework/functions/admin/meta/meta-boxes.php:520
 #: framework/functions/admin/meta/meta-boxes.php:620
 msgid "Upload Your Mobile Logo"
 msgstr "ارفع شعارك الخاص بالهواتف النقالة"
 
-#: framework/functions/admin/customizer/register.php:738
-#: framework/functions/admin/customizer/register.php:801
+#: framework/functions/admin/customizer/register.php:764
+#: framework/functions/admin/customizer/register.php:827
 #: framework/functions/admin/meta/meta-boxes.php:562
 #: framework/functions/admin/meta/meta-boxes.php:662
 msgid "Upload Your Mobile Logo (Retina Version @2x)"
 msgstr "رفع  الشعار الخاص بالهواتف  (Retina Version )"
 
-#: framework/functions/admin/customizer/register.php:766
+#: framework/functions/admin/customizer/register.php:792
 #: framework/functions/admin/meta/meta-boxes.php:506
 #: framework/functions/admin/meta/meta-boxes.php:606
 msgid "Upload Your Sticky Logo"
 msgstr "رفع  الشعار البديل"
 
-#: framework/functions/admin/customizer/register.php:792
+#: framework/functions/admin/customizer/register.php:818
 #: framework/functions/admin/meta/meta-boxes.php:548
 #: framework/functions/admin/meta/meta-boxes.php:648
 msgid "Upload Your Sticky Logo (Retina Version @2x)"
 msgstr "رفع  الشعار البديل (Retina Version )"
 
-#: framework/functions/admin/customizer/register.php:812
+#: framework/functions/admin/customizer/register.php:838
 msgid "Display Primary Menu"
 msgstr "عرض القائمة الأساسية"
 
-#: framework/functions/admin/customizer/register.php:822
+#: framework/functions/admin/customizer/register.php:848
 msgid "Display Icon Menu"
 msgstr "عرض قائمة الأيقونات"
 
-#: framework/functions/admin/customizer/register.php:833
+#: framework/functions/admin/customizer/register.php:859
 msgid "Display social icons"
 msgstr "عرض أيقونات المشاركة الاجتماعية"
 
-#: framework/functions/admin/customizer/register.php:843
-msgid "WPML language switcher"
-msgstr "غير اللغة الخاصة بــ WPML"
-
-#: framework/functions/admin/customizer/register.php:846
-msgid ""
-"Allows you to have the WPML language switcher in header. Note, WPML plugin "
-"must be installed (WPML plugin is not included to the theme pack. You can find "
-"the plugin here)"
-msgstr ""
-"يسمح لك بالحصول على مغير اللغات WPML على الرأسية، ملاحظة: إضافة WPML يجب أن "
-"تكون منصبة ( إضافة WPML غير مضمنة مع الثيم يمكنك الحصول على الإضافة هنا)"
-
-#: framework/functions/admin/customizer/register.php:853
+#: framework/functions/admin/customizer/register.php:869
 msgid "Menu Dark"
 msgstr "القائمة داكنة"
 
-#: framework/functions/admin/customizer/register.php:862
+#: framework/functions/admin/customizer/register.php:878
 msgid "Sub-Menu Dark"
 msgstr "القائمة المنسدلة داكنة"
 
-#: framework/functions/admin/customizer/register.php:872
+#: framework/functions/admin/customizer/register.php:888
 msgid "Display Button"
 msgstr "عرض الزر"
 
-#: framework/functions/admin/customizer/register.php:882
+#: framework/functions/admin/customizer/register.php:898
 #: framework/functions/admin/meta/meta-boxes.php:217
 msgid "Button URL"
 msgstr "رابط الزر"
 
-#: framework/functions/admin/customizer/register.php:891
+#: framework/functions/admin/customizer/register.php:907
 #: framework/functions/admin/meta/meta-boxes.php:227
 msgid "Button Text"
 msgstr "نص الزر"
 
-#: framework/functions/admin/customizer/register.php:900
+#: framework/functions/admin/customizer/register.php:916
 #: framework/functions/admin/meta/meta-boxes.php:238
 msgid "Button CSS Class"
 msgstr "فئة الزر ( CSS Cass)"
 
-#: framework/functions/admin/customizer/register.php:909
+#: framework/functions/admin/customizer/register.php:925
 msgid "Button background color"
 msgstr "لون خلفية الزر"
 
-#: framework/functions/admin/customizer/register.php:918
+#: framework/functions/admin/customizer/register.php:934
 msgid "Button hover background"
 msgstr "لون التحويم على الزر"
 
-#: framework/functions/admin/customizer/register.php:927
+#: framework/functions/admin/customizer/register.php:943
 msgid "Button text color"
 msgstr "لون خط الزر"
 
-#: framework/functions/admin/customizer/register.php:936
+#: framework/functions/admin/customizer/register.php:952
 msgid "NavBar Background Color"
 msgstr "لون خلفية شريط التنقل"
 
-#: framework/functions/admin/customizer/register.php:945
+#: framework/functions/admin/customizer/register.php:961
 msgid "Menu Background Color"
 msgstr "لون خلفية القائمة"
 
-#: framework/functions/admin/customizer/register.php:954
+#: framework/functions/admin/customizer/register.php:970
 msgid "NavBar Background Color After Fixed"
 msgstr "لون خلفية شريط تنقل بعد التثبيت"
 
-#: framework/functions/admin/customizer/register.php:963
+#: framework/functions/admin/customizer/register.php:979
 msgid "NavBar Text Color"
 msgstr "لون خط شريط التنقل"
 
-#: framework/functions/admin/customizer/register.php:972
+#: framework/functions/admin/customizer/register.php:988
 msgid "NavBar Text Hover Color"
 msgstr "لون خط تمرير السهم لشريط التنقل"
 
-#: framework/functions/admin/customizer/register.php:981
+#: framework/functions/admin/customizer/register.php:997
 msgid "NavBar Text Color After Fixed"
 msgstr "لون النص في شريط التنقل بعد التثبيت"
 
-#: framework/functions/admin/customizer/register.php:990
+#: framework/functions/admin/customizer/register.php:1006
 msgid "Display Underline"
 msgstr "عرض تسطير"
 
-#: framework/functions/admin/customizer/register.php:1000
+#: framework/functions/admin/customizer/register.php:1016
 msgid "NavBar Underline Hover Color"
 msgstr "لون خط التحويم على شريط التنقل"
 
-#: framework/functions/admin/customizer/register.php:1010
+#: framework/functions/admin/customizer/register.php:1026
 msgid "Sub-Menu Background Color"
 msgstr "لون خلفية القائمه المنسدله"
 
-#: framework/functions/admin/customizer/register.php:1019
+#: framework/functions/admin/customizer/register.php:1035
 msgid "Sub-Menu Text Color"
 msgstr "لون نص القائمه المنسدله"
 
-#: framework/functions/admin/customizer/register.php:1028
+#: framework/functions/admin/customizer/register.php:1044
 msgid "Sub-Menu Text Hover Color"
 msgstr "لون نص القائمة الفرعية عن تمرير الماوس"
 
-#: framework/functions/admin/customizer/register.php:1037
+#: framework/functions/admin/customizer/register.php:1053
 msgid "Transparent NavBar Background Color"
 msgstr "لون خلفية شريط التنقل الشفاف"
 
-#: framework/functions/admin/customizer/register.php:1046
+#: framework/functions/admin/customizer/register.php:1062
 msgid "Transparent NavBar Text Color"
 msgstr "لون خط شريط التنقل الشفاف"
 
-#: framework/functions/admin/customizer/register.php:1058
+#: framework/functions/admin/customizer/register.php:1074
 msgid "Address"
 msgstr "عنوان"
 
-#: framework/functions/admin/customizer/register.php:1076
+#: framework/functions/admin/customizer/register.php:1092
 msgid "Phone"
 msgstr "الهاتف"
 
-#: framework/functions/admin/customizer/register.php:1086
+#: framework/functions/admin/customizer/register.php:1102
 msgid "Today's Date Format"
 msgstr "تنسيق التاريخ لليوم"
 
-#: framework/functions/admin/customizer/register.php:1088
+#: framework/functions/admin/customizer/register.php:1104
 msgid ""
 "For more details see <a href=\"https://codex.wordpress.org/"
 "Formatting_Date_and_Time\" target=\"_blank\" rel=\"noopener\">Formatting Date "
@@ -1393,50 +1392,63 @@ msgstr ""
 "لمزيد من التفاصيل، انظر <a href=\"https://codex.wordpress.org/"
 "Formatting_Date_and_Time\" target=\"_blank\">تنسيقات التاريخ والوقت</a>"
 
-#: framework/functions/admin/customizer/register.php:1095
+#: framework/functions/admin/customizer/register.php:1111
+msgid "WPML language switcher"
+msgstr "غير اللغة الخاصة بــ WPML"
+
+#: framework/functions/admin/customizer/register.php:1114
+msgid ""
+"Allows you to have the WPML language switcher in header. Note, WPML plugin "
+"must be installed (WPML plugin is not included to the theme pack. You can find "
+"the plugin here)"
+msgstr ""
+"يسمح لك بالحصول على مغير اللغات WPML على الرأسية، ملاحظة: إضافة WPML يجب أن "
+"تكون منصبة ( إضافة WPML غير مضمنة مع الثيم يمكنك الحصول على الإضافة هنا)"
+
+#: framework/functions/admin/customizer/register.php:1121
 msgid "Language selection shortcode"
 msgstr "اختيار لغة العناصر"
 
-#: framework/functions/admin/customizer/register.php:1097
+#: framework/functions/admin/customizer/register.php:1123
 msgid ""
 "In this field you can paste the language shortcode provided by the translating "
 "plugin"
 msgstr "في هذا الحقل يمكنك لصق لغة العنصر الموفر من إضافة الترجمة"
 
-#: framework/functions/admin/customizer/register.php:1108
-#: framework/functions/admin/meta/meta-boxes.php:1098
+#: framework/functions/admin/customizer/register.php:1134
+#: framework/functions/admin/meta/meta-boxes.php:1112
 msgid "Site Content Width (%)"
 msgstr "عُرض محتوى الموقع (%)"
 
-#: framework/functions/admin/customizer/register.php:1119
-#: framework/functions/admin/meta/meta-boxes.php:1117
+#: framework/functions/admin/customizer/register.php:1145
+#: framework/functions/admin/meta/meta-boxes.php:1131
 msgid "Site Max Content Width (px)"
 msgstr "أقصى عرض لمحتوى الموقع (بكسل)"
 
-#: framework/functions/admin/customizer/register.php:1130
+#: framework/functions/admin/customizer/register.php:1156
 msgid "Site Sidebar Width (px)"
 msgstr "أقصى عرض للعمود الجانبي"
 
-#: framework/functions/admin/customizer/register.php:1144
+#: framework/functions/admin/customizer/register.php:1170
 msgid "Sticky Sidebar"
 msgstr "عمود جانبي لصوق"
 
-#: framework/functions/admin/customizer/register.php:1164
-#: framework/functions/admin/meta/meta-boxes.php:1060
+#: framework/functions/admin/customizer/register.php:1190
+#: framework/functions/admin/meta/meta-boxes.php:1074
 msgid "Frame color"
 msgstr "لون الإطار"
 
-#: framework/functions/admin/customizer/register.php:1174
+#: framework/functions/admin/customizer/register.php:1200
 msgid "Smooth Scroll"
 msgstr "التمرير السلس"
 
-#: framework/functions/admin/customizer/register.php:1184
+#: framework/functions/admin/customizer/register.php:1210
 msgid "Hover SVG Icon For Post"
 msgstr "تحويم أيقونة SVG لـ المواضيع"
 
-#: framework/functions/admin/customizer/register.php:1186
-#: framework/functions/admin/customizer/register.php:1200
-#: framework/functions/admin/customizer/register.php:1215
+#: framework/functions/admin/customizer/register.php:1212
+#: framework/functions/admin/customizer/register.php:1226
+#: framework/functions/admin/customizer/register.php:1241
 msgid ""
 "Enter SVG Icon name <a href='https://noor.pixeldima.com/noor-icons/' "
 "target='_blank'>(You can choose from the provided icons)</a>"
@@ -1444,55 +1456,55 @@ msgstr ""
 "أدخل إسم أيقونة SVG <a href='https://noor.pixeldima.com/noor-icons/' "
 "target='_blank'>(يمكنك الاختيار من بين الأيقونات المتوفرة)</a>"
 
-#: framework/functions/admin/customizer/register.php:1198
+#: framework/functions/admin/customizer/register.php:1224
 msgid "Hover SVG Icon For Product"
 msgstr "تحويم أيقونة SVG لـ المنتجات"
 
-#: framework/functions/admin/customizer/register.php:1213
+#: framework/functions/admin/customizer/register.php:1239
 msgid "Hover SVG Icon For Portfolio"
 msgstr "تحويم أيقونة SVG لـ المشاريع"
 
-#: framework/functions/admin/customizer/register.php:1228
-#: framework/functions/admin/meta/meta-boxes.php:1142
+#: framework/functions/admin/customizer/register.php:1254
+#: framework/functions/admin/meta/meta-boxes.php:1156
 msgid "Website Background Color"
 msgstr "لون خلفية الموقع"
 
-#: framework/functions/admin/customizer/register.php:1237
-#: framework/functions/admin/meta/meta-boxes.php:1154
+#: framework/functions/admin/customizer/register.php:1263
+#: framework/functions/admin/meta/meta-boxes.php:1168
 msgid "Website Background Image"
 msgstr "صورة خلفية الموقع"
 
-#: framework/functions/admin/customizer/register.php:1246
-#: framework/functions/admin/meta/meta-boxes.php:1169
+#: framework/functions/admin/customizer/register.php:1272
+#: framework/functions/admin/meta/meta-boxes.php:1183
 msgid "Website Background Repeat"
 msgstr "خلفية الموقع المكررة"
 
-#: framework/functions/admin/customizer/register.php:1249
-#: framework/functions/admin/meta/meta-boxes.php:1178
+#: framework/functions/admin/customizer/register.php:1275
+#: framework/functions/admin/meta/meta-boxes.php:1192
 msgid "background-repeat"
 msgstr "تكرار الخلفية"
 
-#: framework/functions/admin/customizer/register.php:1250
-#: framework/functions/admin/meta/meta-boxes.php:1179
+#: framework/functions/admin/customizer/register.php:1276
+#: framework/functions/admin/meta/meta-boxes.php:1193
 msgid "No Repeat"
 msgstr "بدون تكرار"
 
-#: framework/functions/admin/customizer/register.php:1251
-#: framework/functions/admin/meta/meta-boxes.php:1180
+#: framework/functions/admin/customizer/register.php:1277
+#: framework/functions/admin/meta/meta-boxes.php:1194
 msgid "Repeat All"
 msgstr "تكرار الكل"
 
-#: framework/functions/admin/customizer/register.php:1252
-#: framework/functions/admin/meta/meta-boxes.php:1181
+#: framework/functions/admin/customizer/register.php:1278
+#: framework/functions/admin/meta/meta-boxes.php:1195
 msgid "Repeat Horizontally"
 msgstr "تكرار أفقي"
 
-#: framework/functions/admin/customizer/register.php:1253
-#: framework/functions/admin/meta/meta-boxes.php:1182
+#: framework/functions/admin/customizer/register.php:1279
+#: framework/functions/admin/meta/meta-boxes.php:1196
 msgid "Repeat Vertically"
 msgstr "تكرار عمودي"
 
-#: framework/functions/admin/customizer/register.php:1256
+#: framework/functions/admin/customizer/register.php:1282
 msgid ""
 "Define the background repeat. <a href='http://www.w3schools.com/cssref/"
 "pr_background-repeat.asp' target='_blank'>Check this for reference</a>"
@@ -1500,28 +1512,28 @@ msgstr ""
 "تحديد تكرار الخلفية. <a href='http://www.w3schools.com/cssref/pr_background-"
 "repeat.asp' target='_blank'>تحقق من هذا كمرجع</a>"
 
-#: framework/functions/admin/customizer/register.php:1268
-#: framework/functions/admin/meta/meta-boxes.php:1189
+#: framework/functions/admin/customizer/register.php:1294
+#: framework/functions/admin/meta/meta-boxes.php:1203
 msgid "Website Background Attachment"
 msgstr "مرفق خلفية الموقع"
 
-#: framework/functions/admin/customizer/register.php:1271
-#: framework/functions/admin/meta/meta-boxes.php:1198
+#: framework/functions/admin/customizer/register.php:1297
+#: framework/functions/admin/meta/meta-boxes.php:1212
 msgid "background-attachement"
 msgstr "مرفق الخلفية"
 
-#: framework/functions/admin/customizer/register.php:1272
-#: framework/functions/admin/meta/meta-boxes.php:855
-#: framework/functions/admin/meta/meta-boxes.php:1199
+#: framework/functions/admin/customizer/register.php:1298
+#: framework/functions/admin/meta/meta-boxes.php:869
+#: framework/functions/admin/meta/meta-boxes.php:1213
 msgid "Fixed"
 msgstr "ثابت"
 
-#: framework/functions/admin/customizer/register.php:1273
-#: framework/functions/admin/meta/meta-boxes.php:1200
+#: framework/functions/admin/customizer/register.php:1299
+#: framework/functions/admin/meta/meta-boxes.php:1214
 msgid "Scroll"
 msgstr "التمرير السلس"
 
-#: framework/functions/admin/customizer/register.php:1276
+#: framework/functions/admin/customizer/register.php:1302
 msgid ""
 "Define the background attachment. <a href='http://www.w3schools.com/cssref/"
 "pr_background-attachment.asp' target='_blank'>Check this for reference</a>"
@@ -1529,62 +1541,62 @@ msgstr ""
 "تحديد مرفق الخلفية.<a href='http://www.w3schools.com/cssref/pr_background-"
 "attachment.asp' target='_blank'>تحقق من هذا كمرجع</a>"
 
-#: framework/functions/admin/customizer/register.php:1289
-#: framework/functions/admin/meta/meta-boxes.php:1207
+#: framework/functions/admin/customizer/register.php:1315
+#: framework/functions/admin/meta/meta-boxes.php:1221
 msgid "Website Background Position"
 msgstr "موضع خلفية الموقع"
 
-#: framework/functions/admin/customizer/register.php:1292
-#: framework/functions/admin/meta/meta-boxes.php:1216
+#: framework/functions/admin/customizer/register.php:1318
+#: framework/functions/admin/meta/meta-boxes.php:1230
 msgid "background-position"
 msgstr "موضع الخلفية"
 
-#: framework/functions/admin/customizer/register.php:1293
-#: framework/functions/admin/meta/meta-boxes.php:1217
+#: framework/functions/admin/customizer/register.php:1319
+#: framework/functions/admin/meta/meta-boxes.php:1231
 msgid "Left Top"
 msgstr "فوق يسارا"
 
-#: framework/functions/admin/customizer/register.php:1294
-#: framework/functions/admin/meta/meta-boxes.php:1218
+#: framework/functions/admin/customizer/register.php:1320
+#: framework/functions/admin/meta/meta-boxes.php:1232
 msgid "Left Center"
 msgstr "وسط يسارا"
 
-#: framework/functions/admin/customizer/register.php:1295
-#: framework/functions/admin/meta/meta-boxes.php:1219
+#: framework/functions/admin/customizer/register.php:1321
+#: framework/functions/admin/meta/meta-boxes.php:1233
 msgid "Left Bottom"
 msgstr "تحت يسارا"
 
-#: framework/functions/admin/customizer/register.php:1296
-#: framework/functions/admin/meta/meta-boxes.php:1220
+#: framework/functions/admin/customizer/register.php:1322
+#: framework/functions/admin/meta/meta-boxes.php:1234
 msgid "Center Top"
 msgstr "وسط فوق"
 
-#: framework/functions/admin/customizer/register.php:1297
-#: framework/functions/admin/meta/meta-boxes.php:1221
+#: framework/functions/admin/customizer/register.php:1323
+#: framework/functions/admin/meta/meta-boxes.php:1235
 msgid "Center Center"
 msgstr "وسط وسط"
 
-#: framework/functions/admin/customizer/register.php:1298
-#: framework/functions/admin/meta/meta-boxes.php:1222
+#: framework/functions/admin/customizer/register.php:1324
+#: framework/functions/admin/meta/meta-boxes.php:1236
 msgid "Center Bottom"
 msgstr "وسط تحت"
 
-#: framework/functions/admin/customizer/register.php:1299
-#: framework/functions/admin/meta/meta-boxes.php:1223
+#: framework/functions/admin/customizer/register.php:1325
+#: framework/functions/admin/meta/meta-boxes.php:1237
 msgid "Right Top"
 msgstr "فوق يمينا"
 
-#: framework/functions/admin/customizer/register.php:1300
-#: framework/functions/admin/meta/meta-boxes.php:1224
+#: framework/functions/admin/customizer/register.php:1326
+#: framework/functions/admin/meta/meta-boxes.php:1238
 msgid "Right Center"
 msgstr "وسط يمينا"
 
-#: framework/functions/admin/customizer/register.php:1301
-#: framework/functions/admin/meta/meta-boxes.php:1225
+#: framework/functions/admin/customizer/register.php:1327
+#: framework/functions/admin/meta/meta-boxes.php:1239
 msgid "Right Bottom"
 msgstr "تحت يمينا"
 
-#: framework/functions/admin/customizer/register.php:1303
+#: framework/functions/admin/customizer/register.php:1329
 msgid ""
 "Define the background position. <a href='http://www.w3schools.com/cssref/"
 "pr_background-position.asp' target='_blank'>Check this for reference</a>"
@@ -1592,13 +1604,13 @@ msgstr ""
 "حدد موضع الخلفية <a href='http://www.w3schools.com/cssref/pr_background-"
 "position.asp' target='_blank'>تحقق من هذا كمرجع</a>"
 
-#: framework/functions/admin/customizer/register.php:1315
-#: framework/functions/admin/meta/meta-boxes.php:1231
+#: framework/functions/admin/customizer/register.php:1341
+#: framework/functions/admin/meta/meta-boxes.php:1245
 msgid "Website Background Size"
 msgstr "حجم خلفية الموقع"
 
-#: framework/functions/admin/customizer/register.php:1317
-#: framework/functions/admin/meta/meta-boxes.php:1236
+#: framework/functions/admin/customizer/register.php:1343
+#: framework/functions/admin/meta/meta-boxes.php:1250
 msgid ""
 "Define the background size (Default value is 'cover'). <a href='http://www."
 "w3schools.com/cssref/css3_pr_background-size.asp' target='_blank'>Check this "
@@ -1607,13 +1619,13 @@ msgstr ""
 "تحديد حجم الخلفية (القيمة الافتراضية هي 'غطاء') <a href='http://www.w3schools."
 "com/cssref/css3_pr_background-size.asp' target='_blank'>تحقق من هذا كمرجع</a>"
 
-#: framework/functions/admin/customizer/register.php:1330
-#: framework/functions/admin/meta/meta-boxes.php:1249
+#: framework/functions/admin/customizer/register.php:1356
+#: framework/functions/admin/meta/meta-boxes.php:1263
 msgid "Main color"
 msgstr "الون الرئيسي"
 
-#: framework/functions/admin/customizer/register.php:1332
-#: framework/functions/admin/meta/meta-boxes.php:1254
+#: framework/functions/admin/customizer/register.php:1358
+#: framework/functions/admin/meta/meta-boxes.php:1268
 msgid ""
 "This color will be applied to call to action elements such as buttons and "
 "hover icons. It's preferable to be attractive color and define the main color "
@@ -1622,54 +1634,54 @@ msgstr ""
 "هذا اللون سينطبق على عناصر الدعوة كالزر والأيقونات، من الأحسن أن يكون لون جذاب "
 "و ويعرف اللون الرئيسي لموقعك."
 
-#: framework/functions/admin/customizer/register.php:1339
-#: framework/functions/admin/meta/meta-boxes.php:1261
+#: framework/functions/admin/customizer/register.php:1365
+#: framework/functions/admin/meta/meta-boxes.php:1275
 msgid "Secendery Main color"
 msgstr "الون الرئيسي الثانوي"
 
-#: framework/functions/admin/customizer/register.php:1341
-#: framework/functions/admin/meta/meta-boxes.php:1266
-#: framework/functions/admin/meta/meta-boxes.php:1278
+#: framework/functions/admin/customizer/register.php:1367
+#: framework/functions/admin/meta/meta-boxes.php:1280
+#: framework/functions/admin/meta/meta-boxes.php:1292
 msgid ""
 "This color will be applied to other elements and it's preferable to be like "
 "your headings color or a dark color."
 msgstr ""
 "هذا اللون سينطبق على باقي العناصر، من الأحسن أن مماثل للون العناوين وعاتم."
 
-#: framework/functions/admin/customizer/register.php:1352
+#: framework/functions/admin/customizer/register.php:1378
 msgid "Custom Fonts"
 msgstr "خطوط مخصصة"
 
-#: framework/functions/admin/customizer/register.php:1362
+#: framework/functions/admin/customizer/register.php:1388
 msgid "Body Font"
 msgstr "خط الموقع"
 
-#: framework/functions/admin/customizer/register.php:1373
+#: framework/functions/admin/customizer/register.php:1399
 msgid "Body Font Weights ( Included )"
 msgstr "أوزان خط الجسم (التي سيتم إدراجها)"
 
-#: framework/functions/admin/customizer/register.php:1383
+#: framework/functions/admin/customizer/register.php:1409
 msgid "Body Font Weights"
 msgstr "أوزان خط الجسم (body)"
 
-#: framework/functions/admin/customizer/register.php:1394
-#: framework/functions/admin/customizer/register.php:2063
+#: framework/functions/admin/customizer/register.php:1420
+#: framework/functions/admin/customizer/register.php:2089
 msgid "Font Subsets"
 msgstr "فروع الخط"
 
-#: framework/functions/admin/customizer/register.php:1404
+#: framework/functions/admin/customizer/register.php:1430
 msgid "Body Font Size (px)"
 msgstr "حجم خط الموقع"
 
-#: framework/functions/admin/customizer/register.php:1413
+#: framework/functions/admin/customizer/register.php:1439
 msgid "Body text color"
 msgstr "لون خط الموقع"
 
-#: framework/functions/admin/customizer/register.php:1422
+#: framework/functions/admin/customizer/register.php:1448
 msgid "Text Link color"
 msgstr "لون الرابط"
 
-#: framework/functions/admin/customizer/register.php:1424
+#: framework/functions/admin/customizer/register.php:1450
 msgid ""
 "This color will be applied to the important text links in your website and "
 "it's preferable to be like your website main color."
@@ -1677,27 +1689,9 @@ msgstr ""
 "هذا اللون سينطبق على الروابط المهمة في النصوص في موقعك، من الأحسن أن يكون لون "
 "مماثل للون الرئيسي لموقعك."
 
-#: framework/functions/admin/customizer/register.php:1431
+#: framework/functions/admin/customizer/register.php:1457
 msgid "Text Link Hover color"
 msgstr "لون الرابط عند تمرير الماوس"
-
-#: framework/functions/admin/customizer/register.php:1444
-#: framework/functions/admin/customizer/register.php:1520
-#: framework/functions/admin/customizer/register.php:1595
-#: framework/functions/admin/customizer/register.php:1670
-#: framework/functions/admin/customizer/register.php:1745
-#: framework/functions/admin/customizer/register.php:1820
-msgid "Heading Font Style"
-msgstr "نمط خط العنوان"
-
-#: framework/functions/admin/customizer/register.php:1454
-#: framework/functions/admin/customizer/register.php:1530
-#: framework/functions/admin/customizer/register.php:1605
-#: framework/functions/admin/customizer/register.php:1680
-#: framework/functions/admin/customizer/register.php:1755
-#: framework/functions/admin/customizer/register.php:1830
-msgid "Headings Font"
-msgstr "خط العناوين"
 
 #: framework/functions/admin/customizer/register.php:1470
 #: framework/functions/admin/customizer/register.php:1546
@@ -1705,8 +1699,8 @@ msgstr "خط العناوين"
 #: framework/functions/admin/customizer/register.php:1696
 #: framework/functions/admin/customizer/register.php:1771
 #: framework/functions/admin/customizer/register.php:1846
-msgid "Heading Font Weights ( Included )"
-msgstr "أوزان خط العنوين (التي سيتم إدراجها)"
+msgid "Heading Font Style"
+msgstr "نمط خط العنوان"
 
 #: framework/functions/admin/customizer/register.php:1480
 #: framework/functions/admin/customizer/register.php:1556
@@ -1714,392 +1708,412 @@ msgstr "أوزان خط العنوين (التي سيتم إدراجها)"
 #: framework/functions/admin/customizer/register.php:1706
 #: framework/functions/admin/customizer/register.php:1781
 #: framework/functions/admin/customizer/register.php:1856
+msgid "Headings Font"
+msgstr "خط العناوين"
+
+#: framework/functions/admin/customizer/register.php:1496
+#: framework/functions/admin/customizer/register.php:1572
+#: framework/functions/admin/customizer/register.php:1647
+#: framework/functions/admin/customizer/register.php:1722
+#: framework/functions/admin/customizer/register.php:1797
+#: framework/functions/admin/customizer/register.php:1872
+msgid "Heading Font Weights ( Included )"
+msgstr "أوزان خط العنوين (التي سيتم إدراجها)"
+
+#: framework/functions/admin/customizer/register.php:1506
+#: framework/functions/admin/customizer/register.php:1582
+#: framework/functions/admin/customizer/register.php:1657
+#: framework/functions/admin/customizer/register.php:1732
+#: framework/functions/admin/customizer/register.php:1807
+#: framework/functions/admin/customizer/register.php:1882
 msgid "Heading Font Weights"
 msgstr "أوزان خط العنوين (body)"
 
-#: framework/functions/admin/customizer/register.php:1491
-#: framework/functions/admin/customizer/register.php:1566
-#: framework/functions/admin/customizer/register.php:1641
-#: framework/functions/admin/customizer/register.php:1716
-#: framework/functions/admin/customizer/register.php:1791
-#: framework/functions/admin/customizer/register.php:1866
+#: framework/functions/admin/customizer/register.php:1517
+#: framework/functions/admin/customizer/register.php:1592
+#: framework/functions/admin/customizer/register.php:1667
+#: framework/functions/admin/customizer/register.php:1742
+#: framework/functions/admin/customizer/register.php:1817
+#: framework/functions/admin/customizer/register.php:1892
 msgid "Headings Letter Spacing"
 msgstr "التباعد بين حروف العناوين"
 
-#: framework/functions/admin/customizer/register.php:1500
-#: framework/functions/admin/customizer/register.php:1575
-#: framework/functions/admin/customizer/register.php:1650
-#: framework/functions/admin/customizer/register.php:1725
-#: framework/functions/admin/customizer/register.php:1800
-#: framework/functions/admin/customizer/register.php:1875
+#: framework/functions/admin/customizer/register.php:1526
+#: framework/functions/admin/customizer/register.php:1601
+#: framework/functions/admin/customizer/register.php:1676
+#: framework/functions/admin/customizer/register.php:1751
+#: framework/functions/admin/customizer/register.php:1826
+#: framework/functions/admin/customizer/register.php:1901
 msgid "Font Size (px)"
 msgstr "حجم الخط(بكسل)"
 
-#: framework/functions/admin/customizer/register.php:1509
-#: framework/functions/admin/customizer/register.php:1584
-#: framework/functions/admin/customizer/register.php:1659
-#: framework/functions/admin/customizer/register.php:1734
-#: framework/functions/admin/customizer/register.php:1809
-#: framework/functions/admin/customizer/register.php:1884
+#: framework/functions/admin/customizer/register.php:1535
+#: framework/functions/admin/customizer/register.php:1610
+#: framework/functions/admin/customizer/register.php:1685
+#: framework/functions/admin/customizer/register.php:1760
+#: framework/functions/admin/customizer/register.php:1835
+#: framework/functions/admin/customizer/register.php:1910
 msgid "Headings color"
 msgstr "لون العناوين"
 
-#: framework/functions/admin/customizer/register.php:1895
+#: framework/functions/admin/customizer/register.php:1921
 msgid "Navbar Font Style"
 msgstr "نمط خط شريط التنقل"
 
-#: framework/functions/admin/customizer/register.php:1905
+#: framework/functions/admin/customizer/register.php:1931
 msgid "Navbar Font"
 msgstr "خط شريط التنقل"
 
-#: framework/functions/admin/customizer/register.php:1922
+#: framework/functions/admin/customizer/register.php:1948
 msgid "Navbar Font Weights ( Included )"
 msgstr "أوزن خط شريط التنقل  (التي سيتم إدراجها)"
 
-#: framework/functions/admin/customizer/register.php:1932
+#: framework/functions/admin/customizer/register.php:1958
 msgid "Navbar Font Weights"
 msgstr "وزن خط شريط التنقل"
 
-#: framework/functions/admin/customizer/register.php:1943
+#: framework/functions/admin/customizer/register.php:1969
 msgid "Navbar Font Size"
 msgstr "حجم خط شريط التنقل"
 
-#: framework/functions/admin/customizer/register.php:1954
+#: framework/functions/admin/customizer/register.php:1980
 msgid "Logo Font Style"
 msgstr "نمط خط الشعار"
 
-#: framework/functions/admin/customizer/register.php:1964
+#: framework/functions/admin/customizer/register.php:1990
 msgid "Logo Font"
 msgstr "خط الشعار"
 
-#: framework/functions/admin/customizer/register.php:1980
+#: framework/functions/admin/customizer/register.php:2006
 msgid "Logo Font Weights ( Included )"
 msgstr "أوزن خط الشعار  (التي سيتم إدراجها)"
 
-#: framework/functions/admin/customizer/register.php:1990
+#: framework/functions/admin/customizer/register.php:2016
 msgid "Logo Font Weights"
 msgstr "أوزان خط الشعار (Logo)"
 
-#: framework/functions/admin/customizer/register.php:2001
+#: framework/functions/admin/customizer/register.php:2027
 msgid "Logo Font Size (px)"
 msgstr "حجم خط الشعر"
 
-#: framework/functions/admin/customizer/register.php:2010
+#: framework/functions/admin/customizer/register.php:2036
 msgid "Logo Letter Spacing (px)"
 msgstr "تباعد حروف خط الشعار"
 
-#: framework/functions/admin/customizer/register.php:2019
+#: framework/functions/admin/customizer/register.php:2045
 msgid "Logo Text Color"
 msgstr "لون الشعار"
 
-#: framework/functions/admin/customizer/register.php:2031
+#: framework/functions/admin/customizer/register.php:2057
 msgid "Button Font"
 msgstr "خط الزر"
 
-#: framework/functions/admin/customizer/register.php:2042
+#: framework/functions/admin/customizer/register.php:2068
 msgid "Button Font Weights ( Included )"
 msgstr "أوزان خط الزر (التي سيتم إدراجها)"
 
-#: framework/functions/admin/customizer/register.php:2052
+#: framework/functions/admin/customizer/register.php:2078
 msgid "Button Font Weights"
 msgstr "أوزان خط الزر"
 
-#: framework/functions/admin/customizer/register.php:2073
+#: framework/functions/admin/customizer/register.php:2099
 msgid "Button Font Size"
 msgstr "حجم جط الزر"
 
-#: framework/functions/admin/customizer/register.php:2084
+#: framework/functions/admin/customizer/register.php:2110
 msgid "Posts Style"
 msgstr "نمط المواضيع"
 
-#: framework/functions/admin/customizer/register.php:2104
+#: framework/functions/admin/customizer/register.php:2130
 msgid "Columns"
 msgstr "الاعمدة"
 
-#: framework/functions/admin/customizer/register.php:2115
+#: framework/functions/admin/customizer/register.php:2141
 msgid "Comments Style"
 msgstr "نمط التعلق"
 
-#: framework/functions/admin/customizer/register.php:2125
+#: framework/functions/admin/customizer/register.php:2151
 msgid "Full Post Content on Index"
 msgstr "محتوى الموضوع كامل في الرئيسة"
 
-#: framework/functions/admin/customizer/register.php:2135
+#: framework/functions/admin/customizer/register.php:2161
 msgid "Excerpt Limit"
 msgstr "حد المقتطفات"
 
-#: framework/functions/admin/customizer/register.php:2137
+#: framework/functions/admin/customizer/register.php:2163
 msgid "Displayed Post Excerpt"
 msgstr "عرض مقتطفات الموضوع"
 
-#: framework/functions/admin/customizer/register.php:2145
+#: framework/functions/admin/customizer/register.php:2171
 msgid "Display Post Meta"
 msgstr "عرض معلومات الموضوع"
 
-#: framework/functions/admin/customizer/register.php:2155
+#: framework/functions/admin/customizer/register.php:2181
 msgid "Display Categories Meta"
 msgstr "عرض الفئات (Categories Meta)"
 
-#: framework/functions/admin/customizer/register.php:2165
+#: framework/functions/admin/customizer/register.php:2191
 msgid "Display Comment Meta"
 msgstr "عرض تعليق ميتا"
 
-#: framework/functions/admin/customizer/register.php:2175
+#: framework/functions/admin/customizer/register.php:2201
 msgid "Featured Image"
 msgstr "الصورة المميزة"
 
-#: framework/functions/admin/customizer/register.php:2186
+#: framework/functions/admin/customizer/register.php:2212
 msgid "Blog Element Hover Effects "
 msgstr "تاثير عنصر الموضوع عند تمرير السهم "
 
-#: framework/functions/admin/customizer/register.php:2196
+#: framework/functions/admin/customizer/register.php:2222
 msgid "Blog Image Hover Effects "
 msgstr "تأثير صورة الموضوع عند تمرير السهم "
 
-#: framework/functions/admin/customizer/register.php:2206
+#: framework/functions/admin/customizer/register.php:2232
 #: framework/functions/admin/meta/object_types/object_post.php:405
 msgid "Second Title"
 msgstr "العنوان الفرعي"
 
-#: framework/functions/admin/customizer/register.php:2216
+#: framework/functions/admin/customizer/register.php:2242
 msgid "Display Previous/Next Pagination "
 msgstr "عرض أسهم السابق / التالي لتصفح الموضوع "
 
-#: framework/functions/admin/customizer/register.php:2226
+#: framework/functions/admin/customizer/register.php:2252
 #: framework/functions/admin/meta/object_types/object_post.php:422
 msgid "Display Social Share Icons"
 msgstr "عرض أيقونات المشاركة الاجتماعية"
 
-#: framework/functions/admin/customizer/register.php:2236
+#: framework/functions/admin/customizer/register.php:2262
 #: framework/functions/admin/meta/object_types/object_post.php:439
 msgid "Display Author Box"
 msgstr "عرض صندوق الكاتب"
 
-#: framework/functions/admin/customizer/register.php:2246
+#: framework/functions/admin/customizer/register.php:2272
 #: framework/functions/admin/meta/object_types/object_post.php:457
 msgid "Display Related Posts"
 msgstr "عرض المواضيع ذات الصلة"
 
-#: framework/functions/admin/customizer/register.php:2256
+#: framework/functions/admin/customizer/register.php:2282
 msgid "Related Posts Is Slide"
 msgstr "مواضيع ذات صلة على شكل منزلق"
 
-#: framework/functions/admin/customizer/register.php:2266
+#: framework/functions/admin/customizer/register.php:2292
 #: framework/functions/admin/meta/object_types/object_post.php:475
 msgid "Related Posts Columns"
 msgstr "مواضيع ذات صلة على شكل أعمدة"
 
-#: framework/functions/admin/customizer/register.php:2276
+#: framework/functions/admin/customizer/register.php:2302
 msgid "Related Posts Count"
 msgstr "عدد المواضيع ذات صلة"
 
-#: framework/functions/admin/customizer/register.php:2285
-#: framework/functions/admin/meta/meta-boxes.php:1273
+#: framework/functions/admin/customizer/register.php:2311
+#: framework/functions/admin/meta/meta-boxes.php:1287
 msgid "Pagination background color"
 msgstr "لون خلفية مرقم الصفحات"
 
-#: framework/functions/admin/customizer/register.php:2294
+#: framework/functions/admin/customizer/register.php:2320
 msgid "Blog Page"
 msgstr "صفحة المدونة"
 
-#: framework/functions/admin/customizer/register.php:2296
+#: framework/functions/admin/customizer/register.php:2322
 msgid "Select the blog page name which will be used as main blog page"
 msgstr "عين رابط لصفحة المدونة والذي سيتم استخدامه كصفحة المدونة الرئيسية"
 
-#: framework/functions/admin/customizer/register.php:2307
+#: framework/functions/admin/customizer/register.php:2333
 msgid "Header text size"
 msgstr "حجم خط العنوان"
 
-#: framework/functions/admin/customizer/register.php:2316
+#: framework/functions/admin/customizer/register.php:2342
 msgid "Header Font Style"
 msgstr "نمط الخط رأس"
 
-#: framework/functions/admin/customizer/register.php:2326
+#: framework/functions/admin/customizer/register.php:2352
 msgid "Body/Link Text Size"
 msgstr "خط الموقع / الرابط حجم الخط"
 
-#: framework/functions/admin/customizer/register.php:2335
+#: framework/functions/admin/customizer/register.php:2361
 msgid "Body/Link Font Style"
 msgstr "أسلوب الخط"
 
-#: framework/functions/admin/customizer/register.php:2350
-#: framework/functions/admin/meta/meta-boxes.php:1701
+#: framework/functions/admin/customizer/register.php:2376
+#: framework/functions/admin/customizer/register.php:2615
+#: framework/functions/admin/meta/meta-boxes.php:1715
 msgid "Cart"
 msgstr "السلة"
 
-#: framework/functions/admin/customizer/register.php:2360
-#: framework/functions/admin/meta/meta-boxes.php:1713
+#: framework/functions/admin/customizer/register.php:2386
+#: framework/functions/admin/meta/meta-boxes.php:1727
 msgid "Cart Dropdown"
 msgstr "السلة المنسدلة"
 
-#: framework/functions/admin/customizer/register.php:2370
-#: framework/functions/admin/meta/meta-boxes.php:1725
+#: framework/functions/admin/customizer/register.php:2396
+#: framework/functions/admin/meta/meta-boxes.php:1739
 #: woocommerce/checkout/thankyou.php:36
 msgid "My Account"
 msgstr "حسابي"
 
-#: framework/functions/admin/customizer/register.php:2380
-#: framework/functions/admin/meta/meta-boxes.php:1737
+#: framework/functions/admin/customizer/register.php:2406
+#: framework/functions/admin/meta/meta-boxes.php:1751
 msgid "Wishlist"
 msgstr "الأماني"
 
-#: framework/functions/admin/customizer/register.php:2390
+#: framework/functions/admin/customizer/register.php:2416
+#: framework/functions/admin/customizer/register.php:2625
 msgid "Shop Layout"
 msgstr "تخطيط المتجر"
 
-#: framework/functions/admin/customizer/register.php:2400
+#: framework/functions/admin/customizer/register.php:2426
 msgid "Shop Columns"
 msgstr "اعمدة المتجر"
 
-#: framework/functions/admin/customizer/register.php:2410
+#: framework/functions/admin/customizer/register.php:2436
 msgid "Product Per Page"
 msgstr "المنتج لكل صفحة"
 
-#: framework/functions/admin/customizer/register.php:2419
+#: framework/functions/admin/customizer/register.php:2445
 msgid "Shop Element Hover Effects"
 msgstr "تأثير التحويم على عنصر المنتج"
 
-#: framework/functions/admin/customizer/register.php:2429
+#: framework/functions/admin/customizer/register.php:2455
 msgid "Noor Sort"
 msgstr "ترتيب مخصص لنور"
 
-#: framework/functions/admin/customizer/register.php:2439
+#: framework/functions/admin/customizer/register.php:2465
 msgid "Product Layout"
 msgstr "تخطيط المنتج"
 
-#: framework/functions/admin/customizer/register.php:2450
+#: framework/functions/admin/customizer/register.php:2476
 msgid "Product Tabs"
 msgstr "تبويب المنتج"
 
-#: framework/functions/admin/customizer/register.php:2460
+#: framework/functions/admin/customizer/register.php:2486
 msgid "Description Tab"
 msgstr "تبويب الوصف"
 
-#: framework/functions/admin/customizer/register.php:2470
+#: framework/functions/admin/customizer/register.php:2496
 msgid "Additional Information Tab"
 msgstr "تبويب المعلومات اضافية"
 
-#: framework/functions/admin/customizer/register.php:2480
+#: framework/functions/admin/customizer/register.php:2506
 msgid "Reviews Tab"
 msgstr "تبويب المراجعة"
 
-#: framework/functions/admin/customizer/register.php:2491
+#: framework/functions/admin/customizer/register.php:2516
 msgid "Slide Animation Type"
 msgstr "نوع  الحركة"
 
-#: framework/functions/admin/customizer/register.php:2501
+#: framework/functions/admin/customizer/register.php:2526
 #: woocommerce/single-product/w1-related.php:48
 msgid "Related Products"
 msgstr "منتجات ذات صلة"
 
-#: framework/functions/admin/customizer/register.php:2511
+#: framework/functions/admin/customizer/register.php:2536
 msgid "Related Product Columns"
 msgstr "منتجات ذات صلة أعمدة"
 
-#: framework/functions/admin/customizer/register.php:2521
+#: framework/functions/admin/customizer/register.php:2546
 msgid "Related Product Post Count"
 msgstr "عدد مواضيع المنتجاتذات الصلة"
 
-#: framework/functions/admin/customizer/register.php:2530
+#: framework/functions/admin/customizer/register.php:2555
 msgid "Upsells"
 msgstr "رفع المبيعات"
 
-#: framework/functions/admin/customizer/register.php:2540
+#: framework/functions/admin/customizer/register.php:2565
 msgid "Upsell Columns"
 msgstr "أعمدة رفع المبيعات"
 
-#: framework/functions/admin/customizer/register.php:2550
+#: framework/functions/admin/customizer/register.php:2575
 msgid "Upsell Post Count"
 msgstr "عدد مواضيع رفع البيع"
 
-#: framework/functions/admin/customizer/register.php:2559
+#: framework/functions/admin/customizer/register.php:2584
 msgid "Cross Sells"
 msgstr "منتجات تسويقية"
 
-#: framework/functions/admin/customizer/register.php:2569
+#: framework/functions/admin/customizer/register.php:2594
 msgid "Cross Sells Columns"
 msgstr "أعمدة منتجات تسويقية"
 
-#: framework/functions/admin/customizer/register.php:2579
+#: framework/functions/admin/customizer/register.php:2604
 msgid "Cross Sells Post Count"
 msgstr "عدد مواضيع منتجات تسويقية"
 
-#: framework/functions/admin/customizer/register.php:2597
-#: framework/functions/admin/meta/meta-boxes.php:1027
-#: framework/functions/admin/meta/meta-boxes.php:1299
+#: framework/functions/admin/customizer/register.php:2642
+#: framework/functions/admin/meta/meta-boxes.php:1041
+#: framework/functions/admin/meta/meta-boxes.php:1313
 msgid "Full Width"
 msgstr "العرض الكامل"
 
-#: framework/functions/admin/customizer/register.php:2607
-#: framework/functions/admin/meta/meta-boxes.php:1316
+#: framework/functions/admin/customizer/register.php:2652
+#: framework/functions/admin/meta/meta-boxes.php:1330
 msgid "Footer Parallax"
 msgstr "منظور الفوتر"
 
-#: framework/functions/admin/customizer/register.php:2617
+#: framework/functions/admin/customizer/register.php:2662
 msgid "Big Footer ( Widgets Area )"
 msgstr "تذييل الصفحة كبيرة (مساحة القطع)"
 
-#: framework/functions/admin/customizer/register.php:2627
-#: framework/functions/admin/meta/meta-boxes.php:1547
+#: framework/functions/admin/customizer/register.php:2672
+#: framework/functions/admin/meta/meta-boxes.php:1561
 msgid "Second Footer Widgets Area"
 msgstr "مكان الودجات الثانية في الفوتر"
 
-#: framework/functions/admin/customizer/register.php:2637
-#: framework/functions/admin/customizer/register.php:2657
-#: framework/functions/admin/meta/meta-boxes.php:1350
+#: framework/functions/admin/customizer/register.php:2682
+#: framework/functions/admin/customizer/register.php:2702
+#: framework/functions/admin/meta/meta-boxes.php:1364
 msgid "Small Footer"
 msgstr "ذيل الصفحة الصغير"
 
-#: framework/functions/admin/customizer/register.php:2647
+#: framework/functions/admin/customizer/register.php:2692
 msgid "Footer In Center"
 msgstr "ذيل الصفحة في المنتصف"
 
-#: framework/functions/admin/customizer/register.php:2667
-#: framework/functions/admin/customizer/register.php:3055
+#: framework/functions/admin/customizer/register.php:2712
+#: framework/functions/admin/customizer/register.php:3100
 #: framework/functions/setup.php:63
 msgid "Footer Menu"
 msgstr "قائمة ذيل الصفحة"
 
-#: framework/functions/admin/customizer/register.php:2677
+#: framework/functions/admin/customizer/register.php:2722
 msgid "Small Footer Text Color"
 msgstr "لون نص أسفل تذييل الصفحة (Small footer)"
 
-#: framework/functions/admin/customizer/register.php:2686
+#: framework/functions/admin/customizer/register.php:2731
 msgid "Small Footer Link Color"
 msgstr "لون رابط الفوتر (Small footer)"
 
-#: framework/functions/admin/customizer/register.php:2695
+#: framework/functions/admin/customizer/register.php:2740
 msgid "Copyright Info on footer"
 msgstr "معلومات حقوق النشر على Footer"
 
-#: framework/functions/admin/customizer/register.php:2704
+#: framework/functions/admin/customizer/register.php:2749
 msgid "Copyright Content"
 msgstr "محتوى حق النشر"
 
-#: framework/functions/admin/customizer/register.php:2714
-#: framework/functions/admin/meta/meta-boxes.php:1421
+#: framework/functions/admin/customizer/register.php:2759
+#: framework/functions/admin/meta/meta-boxes.php:1435
 msgid "Featured Areas"
 msgstr "منطقةمميزة"
 
-#: framework/functions/admin/customizer/register.php:2723
-#: framework/functions/admin/customizer/register.php:3094
+#: framework/functions/admin/customizer/register.php:2768
+#: framework/functions/admin/customizer/register.php:3139
 msgid "Background Color"
 msgstr "لون الخلفية"
 
-#: framework/functions/admin/customizer/register.php:2731
+#: framework/functions/admin/customizer/register.php:2776
 msgid "Border Color"
 msgstr "لون الحدود"
 
-#: framework/functions/admin/customizer/register.php:2740
+#: framework/functions/admin/customizer/register.php:2785
 msgid "Background Image"
 msgstr "صورة الخلفية"
 
-#: framework/functions/admin/customizer/register.php:2751
-#: framework/functions/admin/meta/meta-boxes.php:1367
+#: framework/functions/admin/customizer/register.php:2796
+#: framework/functions/admin/meta/meta-boxes.php:1381
 msgid "Footer Is dark"
 msgstr "الفوتر داكن"
 
-#: framework/functions/admin/customizer/register.php:2754
+#: framework/functions/admin/customizer/register.php:2799
 msgid ""
 "Enabling this option will affect the color scheme of the inputs, dropdown and "
 "tags in your footer’s widgets (To change the title, text, link and border "
@@ -2109,137 +2123,137 @@ msgstr ""
 "في قطعة التذييل، (لتغيير العنوان، النص، الرابط ولون الحدود للقطع يمكنك إيجادها "
 "في إعدادات > الفوتر > القطع)."
 
-#: framework/functions/admin/customizer/register.php:2761
-#: framework/functions/admin/meta/meta-boxes.php:1384
+#: framework/functions/admin/customizer/register.php:2806
+#: framework/functions/admin/meta/meta-boxes.php:1398
 msgid "Footer Background Color"
 msgstr "ذيل الصفحة لون الخلفية"
 
-#: framework/functions/admin/customizer/register.php:2770
-#: framework/functions/admin/meta/meta-boxes.php:1396
+#: framework/functions/admin/customizer/register.php:2815
+#: framework/functions/admin/meta/meta-boxes.php:1410
 msgid "Footer Background Image"
 msgstr "صورة الخلفية للفوتر"
 
-#: framework/functions/admin/customizer/register.php:2779
+#: framework/functions/admin/customizer/register.php:2824
 msgid "Back To The Top Arrow"
 msgstr "سهم العودة إلى الأعلى"
 
-#: framework/functions/admin/customizer/register.php:2796
-#: framework/functions/admin/meta/meta-boxes.php:1488
+#: framework/functions/admin/customizer/register.php:2841
+#: framework/functions/admin/meta/meta-boxes.php:1502
 msgid "Footer Widget Areas"
 msgstr "مكان الودجات في الفوتر"
 
-#: framework/functions/admin/customizer/register.php:2815
-#: framework/functions/admin/meta/meta-boxes.php:1564
+#: framework/functions/admin/customizer/register.php:2860
+#: framework/functions/admin/meta/meta-boxes.php:1578
 msgid "Second Footer Widget Areas"
 msgstr "منطقة الودجات الثانية في الفوتر"
 
-#: framework/functions/admin/customizer/register.php:2834
+#: framework/functions/admin/customizer/register.php:2879
 msgid "Widget Header text size"
 msgstr "حجم خط عنوان الودجت"
 
-#: framework/functions/admin/customizer/register.php:2843
+#: framework/functions/admin/customizer/register.php:2888
 msgid "Widget Header Font Style"
 msgstr "حجم خط عنوان الودجت"
 
-#: framework/functions/admin/customizer/register.php:2853
+#: framework/functions/admin/customizer/register.php:2898
 msgid "Widget Body/Link Text Size"
 msgstr "حجم خط الودجت"
 
-#: framework/functions/admin/customizer/register.php:2862
+#: framework/functions/admin/customizer/register.php:2907
 msgid "Widget Body/Link Font Style"
 msgstr "نمط الخط الجسم/رابط الودجت"
 
-#: framework/functions/admin/customizer/register.php:2872
-#: framework/functions/admin/meta/meta-boxes.php:1627
+#: framework/functions/admin/customizer/register.php:2917
+#: framework/functions/admin/meta/meta-boxes.php:1641
 msgid "Widget Header Color"
 msgstr "لون عنوان الودجت"
 
-#: framework/functions/admin/customizer/register.php:2881
-#: framework/functions/admin/meta/meta-boxes.php:1639
+#: framework/functions/admin/customizer/register.php:2926
+#: framework/functions/admin/meta/meta-boxes.php:1653
 msgid "Widget Text Color"
 msgstr "لون نص الودجات"
 
-#: framework/functions/admin/customizer/register.php:2890
-#: framework/functions/admin/meta/meta-boxes.php:1651
+#: framework/functions/admin/customizer/register.php:2935
+#: framework/functions/admin/meta/meta-boxes.php:1665
 msgid "Widget Link Color"
 msgstr "لون رابط الودجات"
 
-#: framework/functions/admin/customizer/register.php:2899
-#: framework/functions/admin/meta/meta-boxes.php:1663
+#: framework/functions/admin/customizer/register.php:2944
+#: framework/functions/admin/meta/meta-boxes.php:1677
 msgid "Widget Hover Link Color"
 msgstr "لون الرالط في الودجات عند مرور الماوس"
 
-#: framework/functions/admin/customizer/register.php:2908
-#: framework/functions/admin/meta/meta-boxes.php:1675
+#: framework/functions/admin/customizer/register.php:2953
+#: framework/functions/admin/meta/meta-boxes.php:1689
 msgid "Widget Border Color"
 msgstr "لون حدود الودجات  (border)"
 
-#: framework/functions/admin/customizer/register.php:2918
+#: framework/functions/admin/customizer/register.php:2963
 msgid "CSS"
 msgstr "CSS"
 
-#: framework/functions/admin/customizer/register.php:2928
+#: framework/functions/admin/customizer/register.php:2973
 msgid "JavaScript"
 msgstr "جافا سكريبت"
 
-#: framework/functions/admin/customizer/register.php:2939
+#: framework/functions/admin/customizer/register.php:2984
 msgid "Enable AMP"
 msgstr "تفعيل AMP"
 
-#: framework/functions/admin/customizer/register.php:2949
+#: framework/functions/admin/customizer/register.php:2994
 msgid "Upload Your AMP Logo"
 msgstr "ارفع شعار AMP"
 
-#: framework/functions/admin/customizer/register.php:2958
+#: framework/functions/admin/customizer/register.php:3003
 msgid "Facebook App ID"
 msgstr "ID تطبيق الفيسبوك"
 
-#: framework/functions/admin/customizer/register.php:2967
+#: framework/functions/admin/customizer/register.php:3012
 msgid "Leave a Comment ( Translate )"
 msgstr "ترك تعليق (ترجمة)"
 
-#: framework/functions/admin/customizer/register.php:2976
+#: framework/functions/admin/customizer/register.php:3021
 msgid "Check Also ( Translate )"
 msgstr "شاهد أيضا (ترجمة)"
 
-#: framework/functions/admin/customizer/register.php:2985
+#: framework/functions/admin/customizer/register.php:3030
 msgid "Categories ( Translate )"
 msgstr "الفئات (ترجمة)"
 
-#: framework/functions/admin/customizer/register.php:2994
+#: framework/functions/admin/customizer/register.php:3039
 msgid "Ago ( Translate )"
 msgstr "قبل(ترجمة)"
 
-#: framework/functions/admin/customizer/register.php:3003
+#: framework/functions/admin/customizer/register.php:3048
 msgid "Tags ( Translate )"
 msgstr "الوسوم (ترجمة)"
 
-#: framework/functions/admin/customizer/register.php:3014
+#: framework/functions/admin/customizer/register.php:3059
 msgid "Related Posts"
 msgstr "مواضيع ذات صلة"
 
-#: framework/functions/admin/customizer/register.php:3024
+#: framework/functions/admin/customizer/register.php:3069
 msgid "Share Buttons"
 msgstr "أزرار المشاركة"
 
-#: framework/functions/admin/customizer/register.php:3035
+#: framework/functions/admin/customizer/register.php:3080
 msgid "Back to top button"
 msgstr "سهم العودة إلى الأعلى"
 
-#: framework/functions/admin/customizer/register.php:3045
+#: framework/functions/admin/customizer/register.php:3090
 msgid "Footer Logo Image"
 msgstr "شعار الفوتر"
 
-#: framework/functions/admin/customizer/register.php:3066
+#: framework/functions/admin/customizer/register.php:3111
 msgid "Copyright Text"
 msgstr "معلومات حقوق النشر"
 
-#: framework/functions/admin/customizer/register.php:3076
+#: framework/functions/admin/customizer/register.php:3121
 msgid "Advertisement Above Content"
 msgstr "الإعلانات فوق المحتوى"
 
-#: framework/functions/admin/customizer/register.php:3078
-#: framework/functions/admin/customizer/register.php:3086
+#: framework/functions/admin/customizer/register.php:3123
+#: framework/functions/admin/customizer/register.php:3131
 #, php-format
 msgid ""
 "Enter your Ad code, AMP pages support &lt;amp-ad&gt; tag only, <a href=\"%s\" "
@@ -2248,102 +2262,102 @@ msgstr ""
 "أدخل شفرة الإعلان، دعم صفحات AMP &lt;amp-ad&gt; tag فقط. <a href=\"%s\" target="
 "\"_blank\">إضغط هنا</a> لمعلومات أكثر."
 
-#: framework/functions/admin/customizer/register.php:3084
+#: framework/functions/admin/customizer/register.php:3129
 msgid "Advertisement Below Content"
 msgstr "الاعلانات"
 
-#: framework/functions/admin/customizer/register.php:3103
+#: framework/functions/admin/customizer/register.php:3148
 msgid "Header Background Color"
 msgstr "لون خلفية الهيدر"
 
-#: framework/functions/admin/customizer/register.php:3112
+#: framework/functions/admin/customizer/register.php:3157
 msgid "Title Color"
 msgstr "لون العنوان"
 
-#: framework/functions/admin/customizer/register.php:3121
+#: framework/functions/admin/customizer/register.php:3166
 msgid "Post meta Color"
 msgstr "لون Post Meta"
 
-#: framework/functions/admin/customizer/register.php:3130
+#: framework/functions/admin/customizer/register.php:3175
 msgid "Links color"
 msgstr "لون الروابط"
 
-#: framework/functions/admin/customizer/register.php:3139
+#: framework/functions/admin/customizer/register.php:3184
 msgid "Footer color"
 msgstr "لون خلفية ذيل الصفحة"
 
-#: framework/functions/admin/customizer/register.php:3147
+#: framework/functions/admin/customizer/register.php:3192
 msgid "Footer border color"
 msgstr "لون حدود ذيل الصفحة"
 
-#: framework/functions/admin/customizer/register.php:3161
+#: framework/functions/admin/customizer/register.php:3206
 msgid "Ad Blocker Detector"
 msgstr "الكاشف عن مانع الإعلانات"
 
-#: framework/functions/admin/customizer/register.php:3172
+#: framework/functions/admin/customizer/register.php:3217
 msgid "Above Article Ad"
 msgstr "إعلان أعلى المقالة"
 
-#: framework/functions/admin/customizer/register.php:3181
+#: framework/functions/admin/customizer/register.php:3226
 msgid "Custom Ad Code -Above-"
 msgstr "رابط إعلان مخصص -فوق-"
 
-#: framework/functions/admin/customizer/register.php:3183
-#: framework/functions/admin/customizer/register.php:3202
-#: framework/functions/admin/customizer/register.php:3212
-#: framework/functions/admin/customizer/register.php:3221
-#: framework/functions/admin/customizer/register.php:3230
-#: framework/functions/admin/customizer/register.php:3239
-#: framework/functions/admin/customizer/register.php:3248
+#: framework/functions/admin/customizer/register.php:3228
+#: framework/functions/admin/customizer/register.php:3247
+#: framework/functions/admin/customizer/register.php:3257
+#: framework/functions/admin/customizer/register.php:3266
+#: framework/functions/admin/customizer/register.php:3275
+#: framework/functions/admin/customizer/register.php:3284
+#: framework/functions/admin/customizer/register.php:3293
 msgid "Supports: Text, HTML and Shortcodes"
 msgstr "(يدعم: نص، HTML والمختصرات)"
 
-#: framework/functions/admin/customizer/register.php:3191
+#: framework/functions/admin/customizer/register.php:3236
 msgid "Below Article Ad"
 msgstr "إعلان أسفل المقالة"
 
-#: framework/functions/admin/customizer/register.php:3200
+#: framework/functions/admin/customizer/register.php:3245
 msgid "Custom Ad Code -Below-"
 msgstr "رابط إعلان مخصص -أسفل-"
 
-#: framework/functions/admin/customizer/register.php:3210
+#: framework/functions/admin/customizer/register.php:3255
 msgid "[ads1] Ad Shortcode"
 msgstr "[ads1] كود مختصر (Shortcde) الإعلان"
 
-#: framework/functions/admin/customizer/register.php:3219
+#: framework/functions/admin/customizer/register.php:3264
 msgid "[ads2] Ad Shortcode"
 msgstr "[ads2] كود مختصر (Shortcde) الإعلان"
 
-#: framework/functions/admin/customizer/register.php:3228
+#: framework/functions/admin/customizer/register.php:3273
 msgid "[ads3] Ad Shortcode"
 msgstr "[ads3] كود مختصر (Shortcde) الإعلان"
 
-#: framework/functions/admin/customizer/register.php:3237
+#: framework/functions/admin/customizer/register.php:3282
 msgid "[ads4] Ad Shortcode"
 msgstr "[ads4] كود مختصر (Shortcde) الإعلان"
 
-#: framework/functions/admin/customizer/register.php:3246
+#: framework/functions/admin/customizer/register.php:3291
 msgid "[ads51] Ad Shortcode"
 msgstr "[ads5] كود مختصر (Shortcde) الإعلان"
 
-#: framework/functions/admin/customizer/register.php:3257
+#: framework/functions/admin/customizer/register.php:3302
 msgid "Disable GIF Featured Images"
 msgstr "تعطيل الصورة المميزة من نوع GIF"
 
-#: framework/functions/admin/customizer/register.php:3270
+#: framework/functions/admin/customizer/register.php:3315
 msgid "Async JavaScript"
 msgstr "تزامن ملفات جافا سكريبت (Async JavaScript)"
 
-#: framework/functions/admin/customizer/register.php:3273
+#: framework/functions/admin/customizer/register.php:3318
 #, php-format
 msgid "Add %s attribute to script tags to improve page download speed."
 msgstr "إضافة سمة %s إلى علامات السكريبت لتحسين سرعة تحميل الصفحة."
 
-#: framework/functions/admin/customizer/register.php:3285
+#: framework/functions/admin/customizer/register.php:3330
 msgid "Remove ver parameters"
 msgstr "إزالة البارامترات ver"
 
-#: framework/functions/admin/customizer/register.php:3288
+#: framework/functions/admin/customizer/register.php:3333
 #, php-format
 msgid ""
 "Remove %s parameter from CSS and JS file calls. It may improve speed in some "
@@ -2352,11 +2366,11 @@ msgstr ""
 "إزالة %s المعلمة من ملف CSS و JS. قد يساعد ذلك على تحسين السرعة في بعض "
 "المتصفحات التي لا تخزن الملفات التي تحتوي على المعلمة."
 
-#: framework/functions/admin/customizer/register.php:3298
+#: framework/functions/admin/customizer/register.php:3343
 msgid "Optimize WooCommerce scripts"
 msgstr "تحسين البرامج النصية ووكومرس"
 
-#: framework/functions/admin/customizer/register.php:3301
+#: framework/functions/admin/customizer/register.php:3346
 msgid ""
 "Load WooCommerce scripts and styles only on WooCommerce pages (WooCommerce "
 "plugin must be enabled)."
@@ -2364,42 +2378,42 @@ msgstr ""
 "يتم تحميل ملفات WooCommerce وأنماطها على صفحات WooCommerce فقط (يجب تمكين "
 "WooCommerce plugin)."
 
-#: framework/functions/admin/customizer/register.php:3311
+#: framework/functions/admin/customizer/register.php:3356
 msgid "Minified CSS files"
 msgstr "ملفات CSS مصغرة"
 
-#: framework/functions/admin/customizer/register.php:3321
+#: framework/functions/admin/customizer/register.php:3366
 msgid "Applay Lazy Image"
 msgstr "تطبيق الصورة الثقيلة"
 
-#: framework/functions/admin/customizer/register.php:3324
+#: framework/functions/admin/customizer/register.php:3369
 msgid ""
 "lazy Image mean: Images outside of viewport will not be loaded before user "
 "scrolls to them."
 msgstr "الصورة الثقيلة تعني: الصورة خارج العرض لن تحدث قبل التمرير لها."
 
-#: framework/functions/admin/customizer/register.php:3331
+#: framework/functions/admin/customizer/register.php:3376
 msgid "Apply to use the font-awesome v5"
 msgstr "استخدام font-awesome النسخة 5"
 
-#: framework/functions/admin/customizer/register.php:3341
+#: framework/functions/admin/customizer/register.php:3386
 msgid "Minified JS files"
 msgstr "ملفات JS مصغرة"
 
-#: framework/functions/admin/customizer/register.php:3344
+#: framework/functions/admin/customizer/register.php:3389
 msgid "Concatenate JS-Module files into one file lib.min.js"
 msgstr "سلسل ملفات JS-Modules في ملف lib.min.js"
 
-#: framework/functions/admin/customizer/register.php:3351
+#: framework/functions/admin/customizer/register.php:3396
 #: framework/functions/admin/meta/object_types/object_post.php:328
 msgid "Animation"
 msgstr "تأثير الحركة"
 
-#: framework/functions/admin/customizer/register.php:3361
+#: framework/functions/admin/customizer/register.php:3406
 msgid "Space before &lt;/head&gt;"
 msgstr "مساحة قبل &lt;/head&gt;"
 
-#: framework/functions/admin/customizer/register.php:3363
+#: framework/functions/admin/customizer/register.php:3408
 msgid ""
 "Only accepts javascript code wrapped with &lt;script&gt;  tags and HTML markup "
 "that is valid inside the &lt;head&gt;  tag."
@@ -2407,13 +2421,13 @@ msgstr ""
 "يقبل فقط كود جافا سكريبت مغطى &lt;script&gt;  علامات و ترميز HTML التي تكون "
 "صالحة في &lt;head&gt;  tag."
 
-#: framework/functions/admin/customizer/register.php:3370
-#: framework/functions/admin/customizer/register.php:3379
+#: framework/functions/admin/customizer/register.php:3415
+#: framework/functions/admin/customizer/register.php:3424
 msgid "Space before &lt;/body&gt;"
 msgstr "مساحة قبل &lt;/body&gt;"
 
-#: framework/functions/admin/customizer/register.php:3372
-#: framework/functions/admin/customizer/register.php:3381
+#: framework/functions/admin/customizer/register.php:3417
+#: framework/functions/admin/customizer/register.php:3426
 msgid ""
 "Only accepts javascript code, wrapped with &lt;script&gt; tags and valid HTML "
 "markup inside the &lt;body&gt; tag."
@@ -2421,106 +2435,106 @@ msgstr ""
 "يقبل فقط كود جافا سكريبت مغطى &lt;script&gt;  علامات و ترميز HTML التي تكون "
 "صالحة في &lt;head&gt;  tag."
 
-#: framework/functions/admin/customizer/register.php:3389
+#: framework/functions/admin/customizer/register.php:3434
 msgid "Google Map API Key"
 msgstr "مفتاح API لخرائط جوجل"
 
-#: framework/functions/admin/customizer/register.php:3410
+#: framework/functions/admin/customizer/register.php:3455
 msgid "Loading Logo"
 msgstr "شعار التحميل"
 
-#: framework/functions/admin/customizer/register.php:3419
+#: framework/functions/admin/customizer/register.php:3464
 msgid "Loading Background Color"
 msgstr "لون خلفية تحميل"
 
-#: framework/functions/admin/customizer/register.php:3428
+#: framework/functions/admin/customizer/register.php:3473
 msgid "Loading Frame Color"
 msgstr "لون إطار خلفية التحميل"
 
-#: framework/functions/admin/customizer/register.php:3440
+#: framework/functions/admin/customizer/register.php:3485
 msgid "Use colored icons?"
 msgstr "أيقونة ملونة?"
 
-#: framework/functions/admin/customizer/register.php:3450
+#: framework/functions/admin/customizer/register.php:3495
 #: framework/functions/widgets/widget-facebook.php:21 woocommerce/share.php:22
 msgid "Facebook"
 msgstr "الفيسبوك"
 
-#: framework/functions/admin/customizer/register.php:3459
+#: framework/functions/admin/customizer/register.php:3504
 #: framework/functions/widgets/widget-twitter.php:20
 #: framework/functions/widgets/widget-twitter.php:22 woocommerce/share.php:30
 msgid "Twitter"
 msgstr "تويتر"
 
-#: framework/functions/admin/customizer/register.php:3468
+#: framework/functions/admin/customizer/register.php:3513
 #: woocommerce/share.php:47
 msgid "Google+"
 msgstr "جوجل بلس"
 
-#: framework/functions/admin/customizer/register.php:3477
+#: framework/functions/admin/customizer/register.php:3522
 msgid "linkedin"
 msgstr "ينكدين"
 
-#: framework/functions/admin/customizer/register.php:3486
+#: framework/functions/admin/customizer/register.php:3531
 msgid "Youtube"
 msgstr "يوتيوب"
 
-#: framework/functions/admin/customizer/register.php:3495
+#: framework/functions/admin/customizer/register.php:3540
 msgid "Vimeo"
 msgstr "فيميو"
 
-#: framework/functions/admin/customizer/register.php:3504
+#: framework/functions/admin/customizer/register.php:3549
 msgid "Foursquare"
 msgstr "فور سكوير"
 
-#: framework/functions/admin/customizer/register.php:3513
+#: framework/functions/admin/customizer/register.php:3558
 msgid "Tumblr"
 msgstr "تمبلر"
 
-#: framework/functions/admin/customizer/register.php:3522
+#: framework/functions/admin/customizer/register.php:3567
 #: framework/functions/widgets/widget-instagram.php:27
 #: framework/functions/widgets/widget-instagram.php:139
 msgid "Instagram"
 msgstr "إنستغرام"
 
-#: framework/functions/admin/customizer/register.php:3531
+#: framework/functions/admin/customizer/register.php:3576
 msgid "Dribbble"
 msgstr "دريبل"
 
-#: framework/functions/admin/customizer/register.php:3540
+#: framework/functions/admin/customizer/register.php:3585
 msgid "Flickr"
 msgstr "فليكر"
 
-#: framework/functions/admin/customizer/register.php:3549
+#: framework/functions/admin/customizer/register.php:3594
 msgid "Behance"
 msgstr "بيهانس"
 
-#: framework/functions/admin/customizer/register.php:3558
+#: framework/functions/admin/customizer/register.php:3603
 #: woocommerce/share.php:38
 msgid "Pinterest"
 msgstr "بينتيريست"
 
-#: framework/functions/admin/customizer/register.php:3567
+#: framework/functions/admin/customizer/register.php:3612
 msgid "Whatsapp"
 msgstr "واتس اب"
 
-#: framework/functions/admin/customizer/register.php:3576
+#: framework/functions/admin/customizer/register.php:3621
 msgid "Soundcloud"
 msgstr "ساوند كلاود"
 
-#: framework/functions/admin/customizer/register.php:3585
+#: framework/functions/admin/customizer/register.php:3630
 msgid "RSS"
 msgstr "RSS"
 
-#: framework/functions/admin/customizer/register.php:3594
+#: framework/functions/admin/customizer/register.php:3639
 msgid "VK"
 msgstr "رابط VK"
 
-#: framework/functions/admin/customizer/register.php:3606
+#: framework/functions/admin/customizer/register.php:3651
 msgid "Upload Favicon"
 msgstr "رفع ايقونة الموقع"
 
-#: framework/functions/admin/customizer/register.php:3608
+#: framework/functions/admin/customizer/register.php:3653
 msgid ""
 "There are many favicon generators available online, such as  <a href=\"http://"
 "www.convertico.com/\" target=\"_blank\" rel=\"noopener\" title=\"Convertico"
@@ -2532,67 +2546,67 @@ msgstr ""
 "href=\"http://www.favicon.co.uk/\" target=\"_blank\" title=\"Favicon.co.uk"
 "\">Favicon.co.uk</a> ."
 
-#: framework/functions/admin/customizer/register.php:3615
+#: framework/functions/admin/customizer/register.php:3660
 msgid "Apple iPhone Icon"
 msgstr "أيقونة ابل اي فون"
 
-#: framework/functions/admin/customizer/register.php:3617
+#: framework/functions/admin/customizer/register.php:3662
 msgid "Icon for Apple iPhone (57px x 57px)"
 msgstr "أيقونة لآبل اي فون (57 بكسل * 57 بكسل)"
 
-#: framework/functions/admin/customizer/register.php:3624
+#: framework/functions/admin/customizer/register.php:3669
 msgid "Apple iPhone Retina Icon"
 msgstr "أيقونة الشبكية لابل اي فون"
 
-#: framework/functions/admin/customizer/register.php:3626
+#: framework/functions/admin/customizer/register.php:3671
 msgid "Icon for Apple iPhone Retina Version (120px x 120px)"
 msgstr "رمز لابل اي فون الشبكية النسخة (120px  بكسل * 120 بكسل)"
 
-#: framework/functions/admin/customizer/register.php:3633
+#: framework/functions/admin/customizer/register.php:3678
 msgid "Apple iPad Icon"
 msgstr "أيقونة أبل اي باد"
 
-#: framework/functions/admin/customizer/register.php:3635
+#: framework/functions/admin/customizer/register.php:3680
 msgid "Icon for Apple iPhone (72px x 72px)"
 msgstr "أيقونة لابل اي فون (72 بكسل * 72 بكسل)"
 
-#: framework/functions/admin/customizer/register.php:3642
+#: framework/functions/admin/customizer/register.php:3687
 msgid "Apple iPad Retina Icon"
 msgstr "أيقونة الشبكية لابل اي باد"
 
-#: framework/functions/admin/customizer/register.php:3644
+#: framework/functions/admin/customizer/register.php:3689
 msgid "Icon for Apple iPad Retina Version (144px x 144px)"
 msgstr "أيقونة الشبكية لابل أي باد نسخة (144بكسل * 144 بكسل)"
 
-#: framework/functions/admin/customizer/register.php:3652
+#: framework/functions/admin/customizer/register.php:3697
 msgid "Open Graph"
 msgstr "فتح opengraph"
 
-#: framework/functions/admin/customizer/register.php:3662
+#: framework/functions/admin/customizer/register.php:3707
 msgid "Facebook Pages ID"
 msgstr "معرف الفيسبوك (Facebook App ID )"
 
-#: framework/functions/admin/customizer/register.php:3671
+#: framework/functions/admin/customizer/register.php:3716
 msgid "Twitter Username (e.g. @pixeldima)"
 msgstr "اسم المستخدم على تويتر (مثال @pixeldima)"
 
-#: framework/functions/admin/customizer/register.php:3680
+#: framework/functions/admin/customizer/register.php:3725
 msgid "Twitter Account ID"
 msgstr "معرّف حساب تويتر"
 
-#: framework/functions/admin/customizer/register.php:3689
+#: framework/functions/admin/customizer/register.php:3734
 msgid "Upload opengraph image"
 msgstr "تحميل صورة opengraph"
 
-#: framework/functions/admin/customizer/register.php:3691
+#: framework/functions/admin/customizer/register.php:3736
 msgid "Image URL which should represent your object within the graph."
 msgstr "عنوان الصورة التي يجب أن تمثل موضوع الرسم البياني."
 
-#: framework/functions/admin/customizer/register.php:3698
+#: framework/functions/admin/customizer/register.php:3743
 msgid "Prefetching"
 msgstr "الجلب المسبق (Prefetching)"
 
-#: framework/functions/admin/customizer/register.php:3701
+#: framework/functions/admin/customizer/register.php:3746
 msgid ""
 "Enable or disable prefetching. If user is on homepage, then single page will "
 "load faster and if user is on single page, homepage will load faster in modern "
@@ -2602,112 +2616,112 @@ msgstr ""
 "واحدة سيتم تحميل أسرع وإذا كان المستخدم على صفحة واحدة، سيتم تحميل الصفحة "
 "الرئيسية أسرع في المتصفحات الحديثة."
 
-#: framework/functions/admin/customizer/register.php:3708
+#: framework/functions/admin/customizer/register.php:3753
 msgid "Structure Data"
 msgstr "بنية البيانات"
 
-#: framework/functions/admin/customizer/register.php:3718
+#: framework/functions/admin/customizer/register.php:3763
 msgid "Default Schema type"
 msgstr "نوع المخطط الافتراضي"
 
-#: framework/functions/admin/customizer/register.php:3721
+#: framework/functions/admin/customizer/register.php:3766
 msgid "NewsArticle"
 msgstr "مقال إخباري"
 
-#: framework/functions/admin/customizer/register.php:3722
+#: framework/functions/admin/customizer/register.php:3767
 msgid "Article"
 msgstr "مقال"
 
-#: framework/functions/admin/customizer/register.php:3723
+#: framework/functions/admin/customizer/register.php:3768
 msgid "BlogPosting"
 msgstr "نشر المدونة"
 
-#: framework/functions/admin/customizer/register.php:3734
+#: framework/functions/admin/customizer/register.php:3779
 #: framework/functions/admin/meta/object_types/object_portfolio.php:394
 msgid "Display Related Projects"
 msgstr "عرض المشاريع ذات صلة"
 
-#: framework/functions/admin/customizer/register.php:3744
+#: framework/functions/admin/customizer/register.php:3789
 msgid "Related Projects Style"
 msgstr "نمط المشاريع ذات الصلة"
 
-#: framework/functions/admin/customizer/register.php:3754
+#: framework/functions/admin/customizer/register.php:3799
 msgid "Related Projects Columns"
 msgstr "نظام عرض المشاريع ذات الصلة"
 
-#: framework/functions/admin/customizer/register.php:3764
+#: framework/functions/admin/customizer/register.php:3809
 msgid "Related Projects Count"
 msgstr "عدد المشاريع ذات الصلة"
 
-#: framework/functions/admin/customizer/register.php:3773
+#: framework/functions/admin/customizer/register.php:3818
 msgid "Related Projects Element Hover Effects "
 msgstr "تاثير العنصر عند تمرير السهم "
 
-#: framework/functions/admin/customizer/register.php:3784
+#: framework/functions/admin/customizer/register.php:3829
 msgid "Related Projects Image Hover Effects "
 msgstr "تأثير صورة عند تمرير السهم "
 
-#: framework/functions/admin/customizer/register.php:3795
+#: framework/functions/admin/customizer/register.php:3840
 #: framework/functions/admin/meta/object_types/object_portfolio.php:189
 msgid "Portfolio Details"
 msgstr "تفاصيل معرض الأعمال"
 
-#: framework/functions/admin/customizer/register.php:3805
+#: framework/functions/admin/customizer/register.php:3850
 #: framework/functions/admin/meta/object_types/object_portfolio.php:205
 msgid "Portfolio Details Style"
 msgstr "نمط تفاصيل معرض لأعمال"
 
-#: framework/functions/admin/customizer/register.php:3815
+#: framework/functions/admin/customizer/register.php:3860
 #: framework/functions/admin/meta/object_types/object_portfolio.php:239
 msgid "Portfolio Details Layout"
 msgstr "قالب تفاصيل معرض الأعمال"
 
-#: framework/functions/admin/customizer/register.php:3835
+#: framework/functions/admin/customizer/register.php:3880
 msgid "Portfolio Sidebar"
 msgstr "العمود الجانبي معرض لأعمال"
 
-#: framework/functions/admin/customizer/register.php:3845
+#: framework/functions/admin/customizer/register.php:3890
 msgid "Inside pagination"
 msgstr "الترقيم فب الداخل"
 
-#: framework/functions/admin/customizer/register.php:3855
+#: framework/functions/admin/customizer/register.php:3900
 #: framework/functions/admin/meta/object_types/object_portfolio.php:331
 msgid "Share icons and Tags"
 msgstr "أيقونات المشاركة والوسوم"
 
-#: framework/functions/admin/customizer/register.php:3869
+#: framework/functions/admin/customizer/register.php:3914
 msgid "Portfolio Columns"
 msgstr "أعمدة معرض الأعمال"
 
-#: framework/functions/admin/customizer/register.php:3879
+#: framework/functions/admin/customizer/register.php:3924
 msgid "Portfolio Element Hover Effects "
 msgstr "تأثير التحويم على عنصر معرض الأعمال "
 
-#: framework/functions/admin/customizer/register.php:3890
+#: framework/functions/admin/customizer/register.php:3935
 msgid "Portfolio Image Hover Effects "
 msgstr "تأثير التحويم على الصورة "
 
-#: framework/functions/admin/customizer/register.php:3900
+#: framework/functions/admin/customizer/register.php:3945
 msgid "Filters"
 msgstr "التصفية"
 
-#: framework/functions/admin/customizer/register.php:3910
+#: framework/functions/admin/customizer/register.php:3955
 msgid "No Margin"
 msgstr "بدون هامش"
 
-#: framework/functions/admin/customizer/register.php:3920
+#: framework/functions/admin/customizer/register.php:3965
 msgid "Count"
 msgstr "العدد"
 
-#: framework/functions/admin/customizer/register.php:3929
+#: framework/functions/admin/customizer/register.php:3974
 msgid "Pagination"
 msgstr "ترقيم الصفحات"
 
-#: framework/functions/admin/customizer/register.php:3942
+#: framework/functions/admin/customizer/register.php:3987
 msgid "Portfolio URL Slug"
 msgstr "رابط سبيكة معرض الأعمال"
 
-#: framework/functions/admin/customizer/register.php:3944
+#: framework/functions/admin/customizer/register.php:3989
 msgid ""
 "This option allows you to change the portfolio slug. Set your custom slug "
 "which will be displayed instead of portfolio in portfolio URL. Please do not "
@@ -2718,28 +2732,28 @@ msgstr ""
 "بدلا من معرض الأعمال فيرابط معرض الأعمال. من فضلك لا ننسى لحفظ الروابط الثابتة "
 "في إعدادات -> الرابط الثابت بعد تغيير هذا الخيار"
 
-#: framework/functions/admin/customizer/register.php:3951
+#: framework/functions/admin/customizer/register.php:3996
 msgid "Portfolio page name"
 msgstr "اسم صفحة معرض الأعمال"
 
-#: framework/functions/admin/customizer/register.php:3953
+#: framework/functions/admin/customizer/register.php:3998
 msgid "Set the title for your portfolio page"
 msgstr "أدخل عنوان صفحة معرض الأعمال"
 
-#: framework/functions/admin/customizer/register.php:3960
+#: framework/functions/admin/customizer/register.php:4005
 msgid "Portfolio top link source"
 msgstr "مصدر رابط معرض الأعمال"
 
-#: framework/functions/admin/customizer/register.php:3970
+#: framework/functions/admin/customizer/register.php:4015
 msgid "Portfolio page URL"
 msgstr "رابط صفحة معرض الأعال"
 
-#: framework/functions/admin/customizer/register.php:3972
+#: framework/functions/admin/customizer/register.php:4017
 msgid "Set the portfolio page URL which will be used as main portfolio page"
 msgstr ""
 "عين رابط لصفحة معرض الأعمال والذي سيتم استخدامه كصفحة معرض الأعمال الرئيسي"
 
-#: framework/functions/admin/customizer/register.php:3978
+#: framework/functions/admin/customizer/register.php:4023
 msgid "Portfolio page"
 msgstr "صفحة معرض الأعمال"
 
@@ -3572,8 +3586,8 @@ msgstr "إزالة الصورة"
 #: framework/functions/admin/meta/inc/cmb2/includes/CMB2_JS.php:203
 #: framework/functions/admin/meta/inc/cmb2/includes/CMB2_Types.php:407
 #: framework/functions/admin/meta/inc/cmb2/includes/types/CMB2_Type_File_Base.php:84
-#: framework/functions/admin/meta/meta-boxes.php:1858
-#: framework/functions/admin/meta/meta-boxes.php:1861
+#: framework/functions/admin/meta/meta-boxes.php:1872
+#: framework/functions/admin/meta/meta-boxes.php:1875
 #: framework/functions/extensions/dima-mega-menu/dima-mega-menu.php:421
 #: woocommerce/cart/mini-cart.php:76 woocommerce/wishlist-view.php:241
 msgid "Remove"
@@ -3581,7 +3595,7 @@ msgstr "إزالة"
 
 #: framework/functions/admin/meta/inc/cmb2/includes/CMB2_JS.php:205
 #: framework/functions/admin/meta/inc/cmb2/includes/types/CMB2_Type_File_Base.php:82
-#: framework/functions/admin/meta/meta-boxes.php:1860
+#: framework/functions/admin/meta/meta-boxes.php:1874
 #: framework/functions/admin/pixeldima-setup/framework-customizer-backup.php:167
 msgid "Download"
 msgstr "تحميل"
@@ -3776,10 +3790,10 @@ msgstr "النطاق الذي يتم بموجبه تقديم الطلب؛ يحد
 #: framework/functions/admin/meta/meta-boxes.php:638
 #: framework/functions/admin/meta/meta-boxes.php:652
 #: framework/functions/admin/meta/meta-boxes.php:666
-#: framework/functions/admin/meta/meta-boxes.php:799
-#: framework/functions/admin/meta/meta-boxes.php:1163
-#: framework/functions/admin/meta/meta-boxes.php:1405
-#: framework/functions/admin/meta/meta-boxes.php:1472
+#: framework/functions/admin/meta/meta-boxes.php:813
+#: framework/functions/admin/meta/meta-boxes.php:1177
+#: framework/functions/admin/meta/meta-boxes.php:1419
+#: framework/functions/admin/meta/meta-boxes.php:1486
 #: framework/functions/admin/meta/object_types/object_portfolio.php:230
 msgid "Add or Upload File"
 msgstr "أصف أو ارفع ملف"
@@ -3948,42 +3962,50 @@ msgid "Choose to show or hide the copyright on vertical menu."
 msgstr "اختر إظهار أو إخفاء حقوق النشر على القائمة الرأسية."
 
 #: framework/functions/admin/meta/meta-boxes.php:781
+msgid "Second Page Titel"
+msgstr "العنوان الثاني"
+
+#: framework/functions/admin/meta/meta-boxes.php:786
+msgid "You can change your page title."
+msgstr "يمكنك تغيير عنوان صفحتك."
+
+#: framework/functions/admin/meta/meta-boxes.php:795
 msgid "Subtitle"
 msgstr "العنوان الفرعي"
 
-#: framework/functions/admin/meta/meta-boxes.php:786
+#: framework/functions/admin/meta/meta-boxes.php:800
 msgid "Add your page subtitle"
 msgstr "ادخل عنوان الصفحة الفرعى"
 
-#: framework/functions/admin/meta/meta-boxes.php:795
+#: framework/functions/admin/meta/meta-boxes.php:809
 msgid "Page Title Background"
 msgstr "خلفية عنوان الصفحة"
 
-#: framework/functions/admin/meta/meta-boxes.php:804
+#: framework/functions/admin/meta/meta-boxes.php:818
 msgid "Upload your background image, or enter image URL lnik using the field."
 msgstr "ارفع صورة أو إدخل رابط الصورة."
 
-#: framework/functions/admin/meta/meta-boxes.php:812
+#: framework/functions/admin/meta/meta-boxes.php:826
 msgid "Page Title Color"
 msgstr "لون العنوان الصفحة"
 
-#: framework/functions/admin/meta/meta-boxes.php:848
+#: framework/functions/admin/meta/meta-boxes.php:862
 msgid "Page Title Backgrounds Parallax Style"
 msgstr "نمط خلفية عنوان الصفحة"
 
-#: framework/functions/admin/meta/meta-boxes.php:854
+#: framework/functions/admin/meta/meta-boxes.php:868
 msgid "Parallax"
 msgstr "منظور"
 
-#: framework/functions/admin/meta/meta-boxes.php:864
+#: framework/functions/admin/meta/meta-boxes.php:878
 msgid "Choose the animation effect for the background image."
 msgstr "إختر تأثير الحركة بالنسبة لصورة الخلفية."
 
-#: framework/functions/admin/meta/meta-boxes.php:868
+#: framework/functions/admin/meta/meta-boxes.php:882
 msgid "Element Shortcode Above the Sidebar"
 msgstr "رمز العنصر فوق الشريط الجانبي"
 
-#: framework/functions/admin/meta/meta-boxes.php:878
+#: framework/functions/admin/meta/meta-boxes.php:892
 msgid ""
 "Enter here a shortcode created by NOOR to display it above the sidebar and "
 "below page title."
@@ -3991,17 +4013,17 @@ msgstr ""
 "أدخل هنا الرمز القصير ( Shortcode ) التي تم إنشاؤها بواسطة نور لعرضه فوق "
 "الهامش وتحت عنوان الصفحة."
 
-#: framework/functions/admin/meta/meta-boxes.php:889
+#: framework/functions/admin/meta/meta-boxes.php:903
 msgid "Body CSS Class(es)"
 msgstr "الجسم فئة/فئات CSS"
 
-#: framework/functions/admin/meta/meta-boxes.php:895
+#: framework/functions/admin/meta/meta-boxes.php:909
 msgid ""
 "Add a custom CSS class to the &lt;body&gt; element. Separate multiple class "
 "names with a space."
 msgstr "إضافة فئة CSS مخصصة إلى عنصر <body>.افصل كل اسم فئة بمسافة."
 
-#: framework/functions/admin/meta/meta-boxes.php:905
+#: framework/functions/admin/meta/meta-boxes.php:919
 msgid ""
 "If your global content layout includes a sidebar, selecting this options will "
 "affect this page only."
@@ -4009,15 +4031,15 @@ msgstr ""
 "إذا كان تخطيط المحتوى العام الخاص بك يتضمن العمود الجانبي، إختيار هذا الخيار "
 "سيتم تطبيقه على هاته الصفحة فقط."
 
-#: framework/functions/admin/meta/meta-boxes.php:943
+#: framework/functions/admin/meta/meta-boxes.php:957
 msgid "Choose Sidebar."
 msgstr "اختر العمود الجانبي."
 
-#: framework/functions/admin/meta/meta-boxes.php:954
+#: framework/functions/admin/meta/meta-boxes.php:968
 msgid "Sidebar sticky"
 msgstr "العمود الجانبي (Sidebar) لصوق"
 
-#: framework/functions/admin/meta/meta-boxes.php:959
+#: framework/functions/admin/meta/meta-boxes.php:973
 msgid ""
 "This will make Sidebar sticky (Useful when a sidebar is too tall or too short "
 "compared to the rest of the content)"
@@ -4025,55 +4047,55 @@ msgstr ""
 "هذا سيجعل العمود الجانبي لصوق (جيدة إذا كان العمود الجانبي طويل جدا او قصير "
 "جدا بالنسبة للمحتوى)"
 
-#: framework/functions/admin/meta/meta-boxes.php:975
+#: framework/functions/admin/meta/meta-boxes.php:989
 msgid "Custom Sidebar width"
 msgstr "تخصيص عرض العمود الجانبي"
 
-#: framework/functions/admin/meta/meta-boxes.php:981
+#: framework/functions/admin/meta/meta-boxes.php:995
 msgid "Enabling this option will let you change sidebar width "
 msgstr "تفعيل هذه الخاصية سيمكنك من تغيير عرض الشريط الجانبي "
 
-#: framework/functions/admin/meta/meta-boxes.php:986
+#: framework/functions/admin/meta/meta-boxes.php:1000
 msgid "Sidebar width (px)"
 msgstr "عرض العمود الجانبي (بكسل)"
 
-#: framework/functions/admin/meta/meta-boxes.php:997
+#: framework/functions/admin/meta/meta-boxes.php:1011
 msgid "Sidebar width (%)"
 msgstr "عرض العمود الجانبي (%)"
 
-#: framework/functions/admin/meta/meta-boxes.php:1018
+#: framework/functions/admin/meta/meta-boxes.php:1032
 msgid "Choose your site layout"
 msgstr "حدد الواجهة الخاصة بك"
 
-#: framework/functions/admin/meta/meta-boxes.php:1040
+#: framework/functions/admin/meta/meta-boxes.php:1054
 msgid "Frame size"
 msgstr "حجم الإطار"
 
-#: framework/functions/admin/meta/meta-boxes.php:1045
+#: framework/functions/admin/meta/meta-boxes.php:1059
 msgid "Choose the frame size"
 msgstr "اختر حجم الغطار"
 
-#: framework/functions/admin/meta/meta-boxes.php:1065
+#: framework/functions/admin/meta/meta-boxes.php:1079
 msgid "Choose color for the frame"
 msgstr "اختيار لون للإطار"
 
-#: framework/functions/admin/meta/meta-boxes.php:1076
+#: framework/functions/admin/meta/meta-boxes.php:1090
 msgid "Custom content width"
 msgstr "تخصيص عرض المحتوى"
 
-#: framework/functions/admin/meta/meta-boxes.php:1082
+#: framework/functions/admin/meta/meta-boxes.php:1096
 msgid "Enabling this option will let you change content width "
 msgstr "تفعيل هذه الخاصية سيمكنك من تغيير عرض المحتوى "
 
-#: framework/functions/admin/meta/meta-boxes.php:1087
+#: framework/functions/admin/meta/meta-boxes.php:1101
 msgid "Site content width (%)"
 msgstr "عُرض محتوى الموقع (%)"
 
-#: framework/functions/admin/meta/meta-boxes.php:1106
+#: framework/functions/admin/meta/meta-boxes.php:1120
 msgid "Site max content Width (px)"
 msgstr "أقصى عرض لمحتوى الموقع (بكسل)"
 
-#: framework/functions/admin/meta/meta-boxes.php:1130
+#: framework/functions/admin/meta/meta-boxes.php:1144
 msgid ""
 "The site preloader appears while the content is loading and hold visitor from "
 "seeing the content restructures until the page renders correctly. If you "
@@ -4084,55 +4106,55 @@ msgstr ""
 "إعادة هيكلة المحتوى حتى تعرض الصفحة بشكل صحيح. إذا اخترت الخيار الافتراضي فإن "
 "العرض يتوافق مع إعدادات خيارات الموقع."
 
-#: framework/functions/admin/meta/meta-boxes.php:1147
+#: framework/functions/admin/meta/meta-boxes.php:1161
 msgid "This color will be applied to Website body."
 msgstr "هذا اللون سيتم تطبيقه على جسم الموقع."
 
-#: framework/functions/admin/meta/meta-boxes.php:1159
+#: framework/functions/admin/meta/meta-boxes.php:1173
 msgid "This Background will be applied to Website body."
 msgstr "هذه الخلفية سيتم تطبيقها على جسم الموقع."
 
-#: framework/functions/admin/meta/meta-boxes.php:1333
+#: framework/functions/admin/meta/meta-boxes.php:1347
 msgid "Big Footer"
 msgstr "ذيل الصفحة الكبير"
 
-#: framework/functions/admin/meta/meta-boxes.php:1338
+#: framework/functions/admin/meta/meta-boxes.php:1352
 msgid "Enable or disable big footer"
 msgstr "تفعيل أو تعطيل الفوتر الكبير"
 
-#: framework/functions/admin/meta/meta-boxes.php:1343
+#: framework/functions/admin/meta/meta-boxes.php:1357
 msgid "Enable"
 msgstr "تفعيل"
 
-#: framework/functions/admin/meta/meta-boxes.php:1344
+#: framework/functions/admin/meta/meta-boxes.php:1358
 msgid "Disable"
 msgstr "تعطيل"
 
-#: framework/functions/admin/meta/meta-boxes.php:1439
+#: framework/functions/admin/meta/meta-boxes.php:1453
 msgid "Featured Background Color"
 msgstr "لون الخلفية في المنطقة المميزة"
 
-#: framework/functions/admin/meta/meta-boxes.php:1451
+#: framework/functions/admin/meta/meta-boxes.php:1465
 msgid "Featured Border Color"
 msgstr "لون حدود المنطقة المميزة"
 
-#: framework/functions/admin/meta/meta-boxes.php:1463
+#: framework/functions/admin/meta/meta-boxes.php:1477
 msgid "Featured Background Image"
 msgstr "صورة الخلفية للمنطقة المميزة"
 
-#: framework/functions/admin/meta/meta-boxes.php:1482
+#: framework/functions/admin/meta/meta-boxes.php:1496
 msgid "General Widgets"
 msgstr "ودجات عامة"
 
-#: framework/functions/admin/meta/meta-boxes.php:1695
+#: framework/functions/admin/meta/meta-boxes.php:1709
 msgid "WooCommerce"
 msgstr "WooCommerce"
 
-#: framework/functions/admin/meta/meta-boxes.php:1773
+#: framework/functions/admin/meta/meta-boxes.php:1787
 msgid "Fullwidth Section"
 msgstr "صفحة كاملة العرض"
 
-#: framework/functions/admin/meta/meta-boxes.php:1791
+#: framework/functions/admin/meta/meta-boxes.php:1805
 msgid ""
 "Check to apply fullwidth sections to this page (by checking this option, the "
 "sidebar will disappear)"
@@ -4140,15 +4162,15 @@ msgstr ""
 "اختر لتطبيق العرض الكامل للأقسام في هذه الصفحة (عند اختيار هذه الخاصية الشريط "
 "الجانبي سيختفي)"
 
-#: framework/functions/admin/meta/meta-boxes.php:1806
+#: framework/functions/admin/meta/meta-boxes.php:1820
 msgid "Custom Post"
 msgstr "موضوع مخصص"
 
-#: framework/functions/admin/meta/meta-boxes.php:1818
+#: framework/functions/admin/meta/meta-boxes.php:1832
 msgid "Hide Featured Image"
 msgstr "إخفاء الصورة المميزة"
 
-#: framework/functions/admin/meta/meta-boxes.php:1824
+#: framework/functions/admin/meta/meta-boxes.php:1838
 msgid ""
 "Disabling this option will remove the featured image from single post only "
 "(Will not affect post lists, masonry and grid styles)"
@@ -4156,16 +4178,16 @@ msgstr ""
 "سيؤدي تعطيل هذا الخيار إلى إزالة الصورة المميزة من هذا الموضوع فقط (لن يؤثر "
 "ذلك على قائمة المواضيع، ومختلف أنواع عرض المواضيع)"
 
-#: framework/functions/admin/meta/meta-boxes.php:1841
-#: framework/functions/admin/meta/meta-boxes.php:1853
+#: framework/functions/admin/meta/meta-boxes.php:1855
+#: framework/functions/admin/meta/meta-boxes.php:1867
 msgid "Post Gallery"
 msgstr "موضوع معرض"
 
-#: framework/functions/admin/meta/meta-boxes.php:1857
+#: framework/functions/admin/meta/meta-boxes.php:1871
 msgid "Add gallery images"
 msgstr "إضافة معرض الصور"
 
-#: framework/functions/admin/meta/meta-boxes.php:1859
+#: framework/functions/admin/meta/meta-boxes.php:1873
 msgid "File"
 msgstr "ملف"
 
@@ -4240,7 +4262,7 @@ msgstr "إعدادات الصفحة"
 
 #: framework/functions/admin/meta/object_types/object_pages.php:81
 #: framework/functions/output/content.php:62
-#: framework/functions/output/dima-class-breadcrumbs.php:140
+#: framework/functions/output/dima-class-breadcrumbs.php:144
 #: woocommerce/cart/cart-empty.php:39 woocommerce/cart/cart-empty.php:42
 #: woocommerce/wishlist-view.php:336 woocommerce/wishlist-view.php:339
 msgid "Shop"
@@ -4650,7 +4672,7 @@ msgid "Invalid file type provided or file size too big. Please try again."
 msgstr "نوع الملف المقدم غير صالح أو حجم الملف كبير جدا. حاول مرة اخرى."
 
 #: framework/functions/admin/pixeldima-setup/framework-customizer-backup.php:113
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:776
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:801
 msgid "Import"
 msgstr "استيراد"
 
@@ -4748,9 +4770,9 @@ msgstr ""
 #: framework/functions/admin/pixeldima-setup/framework-demo-content.php:488
 #: framework/functions/admin/pixeldima-setup/framework-demo-content.php:510
 #: framework/functions/admin/pixeldima-setup/framework-demo-content.php:532
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:553
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:574
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:622
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:554
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:576
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:624
 #, php-format
 msgid "Noor Assistant: For all the shortcodes used in %s."
 msgstr "Dima Assistant: لجميع العناصر المستخدمة في %s."
@@ -4766,7 +4788,7 @@ msgstr "Dima Assistant: لجميع العناصر المستخدمة في %s."
 #: framework/functions/admin/pixeldima-setup/framework-demo-content.php:490
 #: framework/functions/admin/pixeldima-setup/framework-demo-content.php:512
 #: framework/functions/admin/pixeldima-setup/framework-demo-content.php:534
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:576
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:578
 msgid "Slider Revolution: For Sliders."
 msgstr "Slider Revolution: للمنزلقات."
 
@@ -4781,14 +4803,14 @@ msgstr "Slider Revolution: للمنزلقات."
 #: framework/functions/admin/pixeldima-setup/framework-demo-content.php:489
 #: framework/functions/admin/pixeldima-setup/framework-demo-content.php:511
 #: framework/functions/admin/pixeldima-setup/framework-demo-content.php:533
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:554
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:575
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:623
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:555
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:577
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:625
 msgid "Visual Composer: For page builder."
 msgstr "Visual Composer لبناء الصفحات."
 
 #: framework/functions/admin/pixeldima-setup/framework-demo-content.php:73
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:555
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:556
 msgid "Contact Form 7: For the contact form."
 msgstr "Contact Form 7: لنموذج الإتصال."
 
@@ -4825,11 +4847,12 @@ msgstr "Memory Limit of 256 MB"
 #: framework/functions/admin/pixeldima-setup/framework-demo-content.php:493
 #: framework/functions/admin/pixeldima-setup/framework-demo-content.php:515
 #: framework/functions/admin/pixeldima-setup/framework-demo-content.php:537
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:558
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:579
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:605
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:626
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:648
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:559
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:581
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:607
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:628
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:650
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:673
 msgid "Max execution time (php time limit) of 300 seconds"
 msgstr "Max execution time (php time limit) of 300 seconds"
 
@@ -4856,67 +4879,67 @@ msgstr ""
 "عند اختيار إحدى الصفحات الرئيسية المقدمة، سيتم تثبيت جميع الصفحات الرئيسية "
 "الأخرى تلقائيا. يمكنك العثور على هذا القالب هنا بعد تثبيته: %s"
 
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:673
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:698
 msgid "Previw"
 msgstr "معاينة"
 
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:678
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:703
 msgid "Import Content"
 msgstr "استيراد المحتوى"
 
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:679
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:704
 msgid "( menus only import with \"All\" )"
 msgstr "( يتم استراد القائمة فقط مع \"كل\" )"
 
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:690
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:715
 msgid "Posts"
 msgstr "مواضيع"
 
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:695
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:720
 msgid "Pages"
 msgstr "الصفحات"
 
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:705
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:730
 msgid "Products"
 msgstr "المنتجات"
 
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:710
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:735
 msgid "Media"
 msgstr "الوسائط"
 
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:715
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:740
 msgid "Sliders"
 msgstr "الشرائح"
 
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:720
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:745
 msgid "Customizer"
 msgstr "مخصص"
 
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:731
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:756
 msgid "Need help ? "
 msgstr "تحتاج مساعدة ؟ "
 
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:732
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:757
 msgid "Do you have trouble installing demo ? "
 msgstr "هل لديك مشكلة في تثبيت القالب؟ "
 
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:736
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:761
 msgid "Manual Demo Import . "
 msgstr "استراد يدوي للقالب. "
 
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:749
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:774
 msgid "Important Notes:"
 msgstr "ملاحظات هامة:"
 
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:751
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:776
 msgid "Importing demo data will overwrite your Customizer settings . "
 msgstr "سيؤدي استيراد بيانات القاب إلى استبدال إعدادات المخصص. "
 
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:752
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:777
 msgid "We recommend to run Demo Import on a clean WordPress installation . "
 msgstr "نوصي بتشغيل استيراد القالب على تثبيت وردبريس جديد. "
 
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:753
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:778
 msgid ""
 "The Demo Import will not import the images we have used in our live demos, due "
 "to\n"
@@ -4925,7 +4948,7 @@ msgstr ""
 "استيراد القالب لن يقوم برفع الصور بسبب\n"
 "                                    حقوق النشر / الترخيص . "
 
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:756
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:781
 msgid ""
 "No existing posts, pages, categories, images, custom post types or any other "
 "data\n"
@@ -4935,15 +4958,15 @@ msgstr ""
 "أخرى\n"
 "                                    سيتم حذفها أو تعديلها . "
 
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:759
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:784
 msgid "Posts, pages, images, widgets and menus will get imported . "
 msgstr "سيتم استيراد المقالات، الصفحات، الصور، ودجت والقوائم. "
 
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:760
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:785
 msgid "Before you begin, make sure all the required plugins are activated . "
 msgstr "قبل البدء، تأكد من تنشيط جميع الإضافات المطلوبة. "
 
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:761
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:786
 msgid ""
 "Do not run the Demo Import multiple times one after another, it will result "
 "in\n"
@@ -4952,15 +4975,15 @@ msgstr ""
 "لا تقم بتشغيل استراد القالب عدة مرات واحدا تلو الآخر، سوف يؤدي الى\n"
 "                                    مضاعفة المحتوى . "
 
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:769
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:794
 msgid "Are you sure you want to proceed?"
 msgstr "هل انت متأكد انك تريد المتابعة؟"
 
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:772
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:797
 msgid "( It will take a few minutes to complete)"
 msgstr "(سوف يستغرق بضع دقائق لإكمال)"
 
-#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:779
+#: framework/functions/admin/pixeldima-setup/framework-demo-content.php:804
 #: framework/functions/extensions/dima-mega-menu/dima-mega-menu.php:429
 #: woocommerce/myaccount/my-orders.php:95 woocommerce/wishlist-view.php:49
 msgid "Cancel"
@@ -5136,13 +5159,16 @@ msgid "Forums - For Forums Pages"
 msgstr "المنتديات - لصفحات المنتديات"
 
 #: framework/functions/admin/widgets.php:59
-#: framework/functions/admin/widgets.php:71
 msgid "This widget area uses in the forums pages ."
 msgstr "مساحة هذه الودجت مستخدمة في صفحات المنتديات."
 
 #: framework/functions/admin/widgets.php:69
 msgid "EDD Single Page Sidebar"
 msgstr "الشريط الجانبي للصفحة الواحدة الخاص بـ EDD"
+
+#: framework/functions/admin/widgets.php:71
+msgid "This widget area uses in the EDD pages."
+msgstr "منطقة الويدجات الخاصة بإضافة EDD."
 
 #: framework/functions/admin/widgets.php:82
 msgid "First Footer Area #"
@@ -5593,40 +5619,40 @@ msgstr "بحث:"
 msgid "404 - Page not Found"
 msgstr "404 - الصفحة غير موجودة"
 
-#: framework/functions/output/dima-class-breadcrumbs.php:127
+#: framework/functions/output/dima-class-breadcrumbs.php:131
 msgid "Latest Posts"
 msgstr "أحدث المواضيع"
 
-#: framework/functions/output/dima-class-breadcrumbs.php:131
+#: framework/functions/output/dima-class-breadcrumbs.php:135
 #, php-format
 msgid "Search results for: %s"
 msgstr "نتائج البحث عن: %s"
 
-#: framework/functions/output/dima-class-breadcrumbs.php:134
+#: framework/functions/output/dima-class-breadcrumbs.php:138
 msgid "Error 404 Page"
 msgstr "صفحة 404 خطأ"
 
-#: framework/functions/output/dima-class-breadcrumbs.php:160
+#: framework/functions/output/dima-class-breadcrumbs.php:164
 #, php-format
 msgid "Daily Archives: %s"
 msgstr "الأرشيفات اليومية: %s"
 
-#: framework/functions/output/dima-class-breadcrumbs.php:162
+#: framework/functions/output/dima-class-breadcrumbs.php:166
 #, php-format
 msgid "Monthly Archives: %s"
 msgstr "الأرشيفات الشهرية: %s"
 
-#: framework/functions/output/dima-class-breadcrumbs.php:162
+#: framework/functions/output/dima-class-breadcrumbs.php:166
 msgctxt "monthly archives date format"
 msgid "F Y"
 msgstr "F Y"
 
-#: framework/functions/output/dima-class-breadcrumbs.php:164
+#: framework/functions/output/dima-class-breadcrumbs.php:168
 #, php-format
 msgid "Yearly Archives: %s"
 msgstr "الأرشيفات السنوية: %s"
 
-#: framework/functions/output/dima-class-breadcrumbs.php:164
+#: framework/functions/output/dima-class-breadcrumbs.php:168
 msgctxt "yearly archives date format"
 msgid "Y"
 msgstr "Y"
@@ -6390,7 +6416,7 @@ msgstr "اسم المستخدم أو البريد الالكتروني"
 msgid "Remember me"
 msgstr "تذكرني‎"
 
-#: woocommerce/loop/add-to-cart.php:45
+#: woocommerce/loop/add-to-cart.php:47
 msgid "Add To Card"
 msgstr "إضافة الى عربة التسوق"
 
@@ -6649,6 +6675,9 @@ msgstr "طلب تقدير"
 #: woocommerce/wishlist-view.php:328
 msgid "Your wishlist is currently empty."
 msgstr "قائمة الرغبات فارغة حاليا."
+
+#~ msgid "AMP"
+#~ msgstr "AMP"
 
 #~ msgid "---"
 #~ msgstr "---"
@@ -19996,11 +20025,6 @@ msgstr "قائمة الرغبات فارغة حاليا."
 #~| msgid "Re-enter new password"
 #~ msgid "Enter a new password below."
 #~ msgstr "إعادة إدخال كلمة المرور الجديدة"
-
-#, fuzzy
-#~| msgid "Available on backorder"
-#~ msgid "Available downloads"
-#~ msgstr "متاح للحجز"
 
 #, fuzzy
 #~| msgid "Recent Orders"
